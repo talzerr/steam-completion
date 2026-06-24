@@ -1,0 +1,6 @@
+requests
+howlongtobeatpy
+pandas
+tqdm
+rich
+pytest
