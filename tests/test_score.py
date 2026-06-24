@@ -123,6 +123,23 @@ def test_compute_scores_dropped_game_penalty():
     assert recent_score > old_score
 
 
+def test_compute_scores_dropped_game_penalty_magnitude():
+    from score import compute_scores
+    from unittest.mock import patch
+    now = datetime(2026, 6, 24)
+    old_ts = int((now - timedelta(days=800)).timestamp())
+    recent_ts = int((now - timedelta(days=30)).timestamp())
+    df = pd.concat([
+        make_df(app_id=[1], achievements_pct=[0.5], last_played=[recent_ts]),
+        make_df(app_id=[2], achievements_pct=[0.5], last_played=[old_ts]),
+    ], ignore_index=True)
+    with patch("score.freshness_raw", return_value=0.5):
+        result = compute_scores(df, now=now)
+    no_penalty = result.loc[result["app_id"] == 1, "score"].iloc[0]
+    with_penalty = result.loc[result["app_id"] == 2, "score"].iloc[0]
+    assert no_penalty - with_penalty == pytest.approx(15.0)
+
+
 def test_compute_scores_no_intermediate_columns():
     from score import compute_scores
     df = make_df()
