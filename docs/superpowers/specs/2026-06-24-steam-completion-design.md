@@ -26,7 +26,7 @@ steam-completion/
 ├── fetch.py               # pulls Steam API + HLTB, writes data/
 ├── score.py               # reads data/, prints recommendations
 ├── config.py              # Steam API key, Steam ID, scoring weights, output counts
-└── requirements.txt
+└── requirements.txt       # requests, howlongtobeatpy, pandas, tqdm, rich
 ```
 
 `fetch.py` fully overwrites `games.csv` on each run. `hltb_cache.json` is only appended to — entries are never re-fetched unless manually deleted. `score.py` is read-only and never writes.
@@ -45,6 +45,15 @@ steam-completion/
 ### HLTB lookup
 
 Uses `howlongtobeatpy`. Looked up by game name. Result cached in `hltb_cache.json` keyed by `app_id`. If no HLTB entry found, `hltb_found = false`, `hltb_completionist_hours = achievements_total * 0.167` (10 minutes per achievement as a rough proxy), and `completionist_ratio` defaults to `1.0` (neutral — no grind signal available).
+
+### Error handling
+
+- Steam API failure for a single game: skip the game, accumulate a warning. After all games are processed, print a summary ("N games skipped due to API errors"). No retries — re-running `fetch.py` is sufficient.
+- HLTB lookup failure: fall back to proxy formula as above; do not crash.
+
+### Progress reporting
+
+A single `tqdm` progress bar over the game list, labelled with the current game name.
 
 ### Derived fields computed during fetch
 
@@ -91,7 +100,7 @@ Uses `howlongtobeatpy`. Looked up by game name. Result cached in `hltb_cache.jso
 | `ease_score` | 35% | `1 / completionist_ratio`, normalised across library |
 | `size_score` | 25% | `1 / hltb_completionist_hours`, normalised |
 | `difficulty_score` | 25% | `rarity_floor / 100`, normalised (higher floor = more common = easier) |
-| `freshness_score` | 15% | penalty for stale partial progress: full score if never played or recently played; reduced if `achievements_pct > 0` and `last_played` is old |
+| `freshness_score` | 15% | `1.0` if untouched (`achievements_pct == 0`) or last played within 6 months; otherwise linear decay from `1.0` at 6 months to `0.0` at 2 years (clamped at 0); then min-max normalised |
 
 Normalisation: each component is min-max scaled across the filtered library before weighting.
 
@@ -113,6 +122,10 @@ Games are split into two tiers by `hltb_completionist_hours` (median split acros
 
 Sampling probability is proportional to score — higher-scored games appear more frequently across re-runs but are not guaranteed. Re-running `score.py` produces a fresh draw from the same pool.
 
+### Output format
+
+Two `rich` tables printed to stdout (one per tier), each with columns: rank, name, score, completionist hours, achievement %. No file is written.
+
 All counts and pool sizes are configurable in `config.py`:
 
 ```python
@@ -121,6 +134,7 @@ SMALL_POOL = 15
 BIG_RETURN = 2
 BIG_POOL = 10
 STALENESS_THRESHOLD_YEARS = 2
+FRESHNESS_RECENT_MONTHS = 6   # games played within this window get full freshness score
 SCORING_WEIGHTS = {
     "ease": 0.35,
     "size": 0.25,
