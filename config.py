@@ -1,15 +1,15 @@
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
-class _Secrets(BaseSettings):
+class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
     STEAM_API_KEY: str | None = None
     STEAM_ID: str | None = None
 
 
-_secrets = _Secrets()
-STEAM_API_KEY = _secrets.STEAM_API_KEY
-STEAM_ID = _secrets.STEAM_ID
+settings = Settings()
+STEAM_API_KEY = settings.STEAM_API_KEY
+STEAM_ID = settings.STEAM_ID
 
 SMALL_RETURN = 4
 SMALL_POOL = 15
