@@ -4,3 +4,4 @@ pandas
 tqdm
 rich
 pytest
+pydantic-settings

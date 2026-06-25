@@ -1,5 +1,15 @@
-STEAM_API_KEY = "your_api_key_here"
-STEAM_ID = "your_steam_id_here"
+from pydantic_settings import BaseSettings, SettingsConfigDict
+
+
+class _Secrets(BaseSettings):
+    model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
+    STEAM_API_KEY: str | None = None
+    STEAM_ID: str | None = None
+
+
+_secrets = _Secrets()
+STEAM_API_KEY = _secrets.STEAM_API_KEY
+STEAM_ID = _secrets.STEAM_ID
 
 SMALL_RETURN = 4
 SMALL_POOL = 15
