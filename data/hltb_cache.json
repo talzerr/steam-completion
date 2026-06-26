@@ -1,0 +1,3765 @@
+{
+  "220": {
+    "hltb_main_hours": 12.89,
+    "hltb_completionist_hours": 19.88,
+    "hltb_found": true
+  },
+  "320": {
+    "hltb_main_hours": 2.42,
+    "hltb_completionist_hours": 21.55,
+    "hltb_found": true
+  },
+  "360": {
+    "hltb_main_hours": 2.5,
+    "hltb_completionist_hours": 3.33,
+    "hltb_found": true
+  },
+  "400": {
+    "hltb_main_hours": 3.12,
+    "hltb_completionist_hours": 10.47,
+    "hltb_found": true
+  },
+  "440": {
+    "hltb_main_hours": 285.25,
+    "hltb_completionist_hours": 2346.99,
+    "hltb_found": true
+  },
+  "550": {
+    "hltb_main_hours": 10.21,
+    "hltb_completionist_hours": 61.36,
+    "hltb_found": true
+  },
+  "620": {
+    "hltb_main_hours": 8.54,
+    "hltb_completionist_hours": 22.53,
+    "hltb_found": true
+  },
+  "730": {
+    "hltb_main_hours": 145.47,
+    "hltb_completionist_hours": 742.55,
+    "hltb_found": true
+  },
+  "1200": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 44.0,
+    "hltb_found": true
+  },
+  "1230": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "1250": {
+    "hltb_main_hours": 17.76,
+    "hltb_completionist_hours": 296.28,
+    "hltb_found": true
+  },
+  "1280": {
+    "hltb_main_hours": 4.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "1900": {
+    "hltb_main_hours": 22.71,
+    "hltb_completionist_hours": 31.02,
+    "hltb_found": true
+  },
+  "2400": {
+    "hltb_main_hours": 2.61,
+    "hltb_completionist_hours": 4.07,
+    "hltb_found": true
+  },
+  "2420": {
+    "hltb_main_hours": 2.2,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "2430": {
+    "hltb_found": false
+  },
+  "2600": {
+    "hltb_main_hours": 22.64,
+    "hltb_completionist_hours": 38.87,
+    "hltb_found": true
+  },
+  "2700": {
+    "hltb_main_hours": 20.12,
+    "hltb_completionist_hours": 42.01,
+    "hltb_found": true
+  },
+  "3260": {
+    "hltb_main_hours": 3.47,
+    "hltb_completionist_hours": 5.74,
+    "hltb_found": true
+  },
+  "3330": {
+    "hltb_main_hours": 5.3,
+    "hltb_completionist_hours": 12.72,
+    "hltb_found": true
+  },
+  "3590": {
+    "hltb_main_hours": 8.2,
+    "hltb_completionist_hours": 42.7,
+    "hltb_found": true
+  },
+  "3830": {
+    "hltb_main_hours": 12.01,
+    "hltb_completionist_hours": 21.61,
+    "hltb_found": true
+  },
+  "3910": {
+    "hltb_main_hours": 22.2,
+    "hltb_completionist_hours": 123.31,
+    "hltb_found": true
+  },
+  "4000": {
+    "hltb_main_hours": 51.41,
+    "hltb_completionist_hours": 553.98,
+    "hltb_found": true
+  },
+  "7520": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "7610": {
+    "hltb_main_hours": 26.17,
+    "hltb_completionist_hours": 38.0,
+    "hltb_found": true
+  },
+  "7650": {
+    "hltb_main_hours": 34.16,
+    "hltb_completionist_hours": 92.25,
+    "hltb_found": true
+  },
+  "7660": {
+    "hltb_main_hours": 32.55,
+    "hltb_completionist_hours": 63.82,
+    "hltb_found": true
+  },
+  "7670": {
+    "hltb_main_hours": 12.11,
+    "hltb_completionist_hours": 23.23,
+    "hltb_found": true
+  },
+  "7730": {
+    "hltb_main_hours": 13.09,
+    "hltb_completionist_hours": 20.17,
+    "hltb_found": true
+  },
+  "7770": {
+    "hltb_main_hours": 4.37,
+    "hltb_completionist_hours": 8.02,
+    "hltb_found": true
+  },
+  "8190": {
+    "hltb_main_hours": 17.62,
+    "hltb_completionist_hours": 85.71,
+    "hltb_found": true
+  },
+  "8340": {
+    "hltb_main_hours": 2.62,
+    "hltb_completionist_hours": 3.99,
+    "hltb_found": true
+  },
+  "8350": {
+    "hltb_main_hours": 2.84,
+    "hltb_completionist_hours": 4.13,
+    "hltb_found": true
+  },
+  "8360": {
+    "hltb_main_hours": 2.58,
+    "hltb_completionist_hours": 3.65,
+    "hltb_found": true
+  },
+  "8370": {
+    "hltb_main_hours": 2.06,
+    "hltb_completionist_hours": 5.17,
+    "hltb_found": true
+  },
+  "8380": {
+    "hltb_main_hours": 2.53,
+    "hltb_completionist_hours": 3.67,
+    "hltb_found": true
+  },
+  "8600": {
+    "hltb_main_hours": 6.55,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "8660": {
+    "hltb_main_hours": 1.21,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "8850": {
+    "hltb_main_hours": 10.58,
+    "hltb_completionist_hours": 23.72,
+    "hltb_found": true
+  },
+  "8870": {
+    "hltb_main_hours": 11.54,
+    "hltb_completionist_hours": 28.5,
+    "hltb_found": true
+  },
+  "8980": {
+    "hltb_main_hours": 20.57,
+    "hltb_completionist_hours": 74.04,
+    "hltb_found": true
+  },
+  "9050": {
+    "hltb_main_hours": 10.93,
+    "hltb_completionist_hours": 16.81,
+    "hltb_found": true
+  },
+  "9070": {
+    "hltb_main_hours": 4.05,
+    "hltb_completionist_hours": 5.78,
+    "hltb_found": true
+  },
+  "9350": {
+    "hltb_main_hours": 18.64,
+    "hltb_completionist_hours": 50.59,
+    "hltb_found": true
+  },
+  "9420": {
+    "hltb_main_hours": 18.04,
+    "hltb_completionist_hours": 31.78,
+    "hltb_found": true
+  },
+  "9480": {
+    "hltb_main_hours": 19.93,
+    "hltb_completionist_hours": 50.8,
+    "hltb_found": true
+  },
+  "10500": {
+    "hltb_main_hours": 60.73,
+    "hltb_completionist_hours": 245.04,
+    "hltb_found": true
+  },
+  "11040": {
+    "hltb_main_hours": 9.81,
+    "hltb_completionist_hours": 13.46,
+    "hltb_found": true
+  },
+  "11130": {
+    "hltb_main_hours": 5.19,
+    "hltb_completionist_hours": 5.48,
+    "hltb_found": true
+  },
+  "11140": {
+    "hltb_found": false
+  },
+  "11150": {
+    "hltb_found": false
+  },
+  "11180": {
+    "hltb_main_hours": 3.48,
+    "hltb_completionist_hours": 3.61,
+    "hltb_found": true
+  },
+  "11190": {
+    "hltb_main_hours": 10.74,
+    "hltb_completionist_hours": 11.1,
+    "hltb_found": true
+  },
+  "11360": {
+    "hltb_main_hours": 2.11,
+    "hltb_completionist_hours": 3.11,
+    "hltb_found": true
+  },
+  "11390": {
+    "hltb_main_hours": 8.71,
+    "hltb_completionist_hours": 13.51,
+    "hltb_found": true
+  },
+  "11450": {
+    "hltb_main_hours": 17.02,
+    "hltb_completionist_hours": 27.13,
+    "hltb_found": true
+  },
+  "12100": {
+    "hltb_main_hours": 14.1,
+    "hltb_completionist_hours": 36.42,
+    "hltb_found": true
+  },
+  "12110": {
+    "hltb_main_hours": 17.02,
+    "hltb_completionist_hours": 37.89,
+    "hltb_found": true
+  },
+  "12120": {
+    "hltb_main_hours": 30.17,
+    "hltb_completionist_hours": 71.12,
+    "hltb_found": true
+  },
+  "12210": {
+    "hltb_main_hours": 30.75,
+    "hltb_completionist_hours": 100.18,
+    "hltb_found": true
+  },
+  "12230": {
+    "hltb_main_hours": 14.1,
+    "hltb_completionist_hours": 36.42,
+    "hltb_found": true
+  },
+  "12240": {
+    "hltb_main_hours": 17.02,
+    "hltb_completionist_hours": 37.89,
+    "hltb_found": true
+  },
+  "12250": {
+    "hltb_main_hours": 30.17,
+    "hltb_completionist_hours": 71.12,
+    "hltb_found": true
+  },
+  "12750": {
+    "hltb_main_hours": 21.54,
+    "hltb_completionist_hours": 63.42,
+    "hltb_found": true
+  },
+  "12810": {
+    "hltb_main_hours": 16.47,
+    "hltb_completionist_hours": 26.85,
+    "hltb_found": true
+  },
+  "12900": {
+    "hltb_main_hours": 7.76,
+    "hltb_completionist_hours": 16.92,
+    "hltb_found": true
+  },
+  "16450": {
+    "hltb_main_hours": 7.11,
+    "hltb_completionist_hours": 10.88,
+    "hltb_found": true
+  },
+  "16730": {
+    "hltb_main_hours": 5.16,
+    "hltb_completionist_hours": 6.79,
+    "hltb_found": true
+  },
+  "17450": {
+    "hltb_main_hours": 40.3,
+    "hltb_completionist_hours": 86.7,
+    "hltb_found": true
+  },
+  "17460": {
+    "hltb_found": false
+  },
+  "17470": {
+    "hltb_found": false
+  },
+  "18110": {
+    "hltb_main_hours": 11.69,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "20500": {
+    "hltb_found": false
+  },
+  "20530": {
+    "hltb_main_hours": 6.0,
+    "hltb_completionist_hours": 8.9,
+    "hltb_found": true
+  },
+  "20550": {
+    "hltb_main_hours": 4.46,
+    "hltb_completionist_hours": 6.35,
+    "hltb_found": true
+  },
+  "20900": {
+    "hltb_main_hours": 35.25,
+    "hltb_completionist_hours": 63.86,
+    "hltb_found": true
+  },
+  "20920": {
+    "hltb_found": false
+  },
+  "21090": {
+    "hltb_main_hours": 8.17,
+    "hltb_completionist_hours": 12.23,
+    "hltb_found": true
+  },
+  "21100": {
+    "hltb_main_hours": 5.77,
+    "hltb_completionist_hours": 17.6,
+    "hltb_found": true
+  },
+  "21110": {
+    "hltb_found": false
+  },
+  "21120": {
+    "hltb_found": false
+  },
+  "22000": {
+    "hltb_main_hours": 6.01,
+    "hltb_completionist_hours": 13.88,
+    "hltb_found": true
+  },
+  "22230": {
+    "hltb_main_hours": 4.07,
+    "hltb_completionist_hours": 11.85,
+    "hltb_found": true
+  },
+  "22330": {
+    "hltb_found": false
+  },
+  "22370": {
+    "hltb_found": false
+  },
+  "22380": {
+    "hltb_main_hours": 26.84,
+    "hltb_completionist_hours": 130.79,
+    "hltb_found": true
+  },
+  "22600": {
+    "hltb_main_hours": 10.3,
+    "hltb_completionist_hours": 47.35,
+    "hltb_found": true
+  },
+  "23490": {
+    "hltb_found": false
+  },
+  "24010": {
+    "hltb_main_hours": 12.59,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "24240": {
+    "hltb_main_hours": 9.99,
+    "hltb_completionist_hours": 48.79,
+    "hltb_found": true
+  },
+  "24740": {
+    "hltb_main_hours": 10.87,
+    "hltb_completionist_hours": 36.91,
+    "hltb_found": true
+  },
+  "25800": {
+    "hltb_main_hours": 62.6,
+    "hltb_completionist_hours": 658.76,
+    "hltb_found": true
+  },
+  "26800": {
+    "hltb_main_hours": 5.07,
+    "hltb_completionist_hours": 7.8,
+    "hltb_found": true
+  },
+  "29120": {
+    "hltb_found": false
+  },
+  "29130": {
+    "hltb_main_hours": 1.99,
+    "hltb_completionist_hours": 2.12,
+    "hltb_found": true
+  },
+  "31220": {
+    "hltb_main_hours": 3.72,
+    "hltb_completionist_hours": 3.94,
+    "hltb_found": true
+  },
+  "31230": {
+    "hltb_main_hours": 3.14,
+    "hltb_completionist_hours": 3.9,
+    "hltb_found": true
+  },
+  "31240": {
+    "hltb_main_hours": 3.07,
+    "hltb_completionist_hours": 3.38,
+    "hltb_found": true
+  },
+  "31250": {
+    "hltb_main_hours": 2.54,
+    "hltb_completionist_hours": 3.05,
+    "hltb_found": true
+  },
+  "31260": {
+    "hltb_main_hours": 2.63,
+    "hltb_completionist_hours": 2.82,
+    "hltb_found": true
+  },
+  "31270": {
+    "hltb_main_hours": 3.41,
+    "hltb_completionist_hours": 4.1,
+    "hltb_found": true
+  },
+  "31280": {
+    "hltb_found": false
+  },
+  "31290": {
+    "hltb_main_hours": 2.61,
+    "hltb_completionist_hours": 3.12,
+    "hltb_found": true
+  },
+  "32360": {
+    "hltb_main_hours": 6.66,
+    "hltb_completionist_hours": 7.63,
+    "hltb_found": true
+  },
+  "32460": {
+    "hltb_main_hours": 7.06,
+    "hltb_completionist_hours": 7.99,
+    "hltb_found": true
+  },
+  "33100": {
+    "hltb_main_hours": 2.22,
+    "hltb_completionist_hours": 5.79,
+    "hltb_found": true
+  },
+  "33120": {
+    "hltb_main_hours": 5.17,
+    "hltb_completionist_hours": 7.04,
+    "hltb_found": true
+  },
+  "33130": {
+    "hltb_main_hours": 2.25,
+    "hltb_completionist_hours": 2.96,
+    "hltb_found": true
+  },
+  "33180": {
+    "hltb_main_hours": 4.04,
+    "hltb_completionist_hours": 6.99,
+    "hltb_found": true
+  },
+  "33220": {
+    "hltb_main_hours": 7.32,
+    "hltb_completionist_hours": 18.23,
+    "hltb_found": true
+  },
+  "33230": {
+    "hltb_main_hours": 19.21,
+    "hltb_completionist_hours": 35.42,
+    "hltb_found": true
+  },
+  "34830": {
+    "hltb_main_hours": 5.14,
+    "hltb_completionist_hours": 14.02,
+    "hltb_found": true
+  },
+  "34870": {
+    "hltb_main_hours": 5.13,
+    "hltb_completionist_hours": 11.95,
+    "hltb_found": true
+  },
+  "35140": {
+    "hltb_found": false
+  },
+  "35420": {
+    "hltb_found": false
+  },
+  "35450": {
+    "hltb_found": false
+  },
+  "35720": {
+    "hltb_main_hours": 8.19,
+    "hltb_completionist_hours": 23.23,
+    "hltb_found": true
+  },
+  "38220": {
+    "hltb_main_hours": 3.03,
+    "hltb_completionist_hours": 4.93,
+    "hltb_found": true
+  },
+  "38400": {
+    "hltb_main_hours": 16.2,
+    "hltb_completionist_hours": 32.07,
+    "hltb_found": true
+  },
+  "39150": {
+    "hltb_main_hours": 38.29,
+    "hltb_completionist_hours": 75.57,
+    "hltb_found": true
+  },
+  "39210": {
+    "hltb_found": false
+  },
+  "39650": {
+    "hltb_main_hours": 12.5,
+    "hltb_completionist_hours": 48.8,
+    "hltb_found": true
+  },
+  "39690": {
+    "hltb_main_hours": 15.41,
+    "hltb_completionist_hours": 33.09,
+    "hltb_found": true
+  },
+  "40300": {
+    "hltb_main_hours": 28.04,
+    "hltb_completionist_hours": 45.97,
+    "hltb_found": true
+  },
+  "40390": {
+    "hltb_main_hours": 0.96,
+    "hltb_completionist_hours": 1.61,
+    "hltb_found": true
+  },
+  "40800": {
+    "hltb_main_hours": 9.19,
+    "hltb_completionist_hours": 45.75,
+    "hltb_found": true
+  },
+  "41000": {
+    "hltb_main_hours": 6.21,
+    "hltb_completionist_hours": 19.94,
+    "hltb_found": true
+  },
+  "41010": {
+    "hltb_main_hours": 7.4,
+    "hltb_completionist_hours": 23.0,
+    "hltb_found": true
+  },
+  "41070": {
+    "hltb_main_hours": 10.05,
+    "hltb_completionist_hours": 28.81,
+    "hltb_found": true
+  },
+  "41100": {
+    "hltb_main_hours": 4.21,
+    "hltb_completionist_hours": 11.75,
+    "hltb_found": true
+  },
+  "42140": {
+    "hltb_main_hours": 4.95,
+    "hltb_completionist_hours": 11.47,
+    "hltb_found": true
+  },
+  "42160": {
+    "hltb_main_hours": 8.2,
+    "hltb_completionist_hours": 50.0,
+    "hltb_found": true
+  },
+  "42170": {
+    "hltb_main_hours": 17.4,
+    "hltb_completionist_hours": 46.78,
+    "hltb_found": true
+  },
+  "42910": {
+    "hltb_main_hours": 10.41,
+    "hltb_completionist_hours": 45.34,
+    "hltb_found": true
+  },
+  "43110": {
+    "hltb_main_hours": 9.52,
+    "hltb_completionist_hours": 20.73,
+    "hltb_found": true
+  },
+  "44350": {
+    "hltb_main_hours": 19.96,
+    "hltb_completionist_hours": 33.85,
+    "hltb_found": true
+  },
+  "45400": {
+    "hltb_main_hours": 1.96,
+    "hltb_completionist_hours": 7.24,
+    "hltb_found": true
+  },
+  "45410": {
+    "hltb_main_hours": 3.1,
+    "hltb_completionist_hours": 10.07,
+    "hltb_found": true
+  },
+  "45450": {
+    "hltb_main_hours": 3.19,
+    "hltb_completionist_hours": 15.69,
+    "hltb_found": true
+  },
+  "45740": {
+    "hltb_main_hours": 14.35,
+    "hltb_completionist_hours": 50.53,
+    "hltb_found": true
+  },
+  "45770": {
+    "hltb_main_hours": 13.07,
+    "hltb_completionist_hours": 39.28,
+    "hltb_found": true
+  },
+  "46000": {
+    "hltb_main_hours": 4.24,
+    "hltb_completionist_hours": 8.23,
+    "hltb_found": true
+  },
+  "46260": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 89.65,
+    "hltb_found": true
+  },
+  "47780": {
+    "hltb_main_hours": 9.09,
+    "hltb_completionist_hours": 16.27,
+    "hltb_found": true
+  },
+  "47810": {
+    "hltb_main_hours": 49.37,
+    "hltb_completionist_hours": 104.28,
+    "hltb_found": true
+  },
+  "48000": {
+    "hltb_found": false
+  },
+  "48900": {
+    "hltb_main_hours": 4.44,
+    "hltb_completionist_hours": 4.65,
+    "hltb_found": true
+  },
+  "49520": {
+    "hltb_main_hours": 30.09,
+    "hltb_completionist_hours": 130.1,
+    "hltb_found": true
+  },
+  "49600": {
+    "hltb_main_hours": 4.63,
+    "hltb_completionist_hours": 25.54,
+    "hltb_found": true
+  },
+  "50130": {
+    "hltb_found": false
+  },
+  "50300": {
+    "hltb_main_hours": 6.12,
+    "hltb_completionist_hours": 16.3,
+    "hltb_found": true
+  },
+  "50620": {
+    "hltb_main_hours": 17.07,
+    "hltb_completionist_hours": 27.99,
+    "hltb_found": true
+  },
+  "50650": {
+    "hltb_main_hours": 21.54,
+    "hltb_completionist_hours": 45.73,
+    "hltb_found": true
+  },
+  "55100": {
+    "hltb_main_hours": 4.16,
+    "hltb_completionist_hours": 9.64,
+    "hltb_found": true
+  },
+  "55110": {
+    "hltb_main_hours": 8.03,
+    "hltb_completionist_hours": 19.8,
+    "hltb_found": true
+  },
+  "55150": {
+    "hltb_main_hours": 7.59,
+    "hltb_completionist_hours": 22.01,
+    "hltb_found": true
+  },
+  "55230": {
+    "hltb_main_hours": 15.4,
+    "hltb_completionist_hours": 45.75,
+    "hltb_found": true
+  },
+  "57300": {
+    "hltb_main_hours": 7.95,
+    "hltb_completionist_hours": 11.71,
+    "hltb_found": true
+  },
+  "58230": {
+    "hltb_main_hours": 11.23,
+    "hltb_completionist_hours": 15.47,
+    "hltb_found": true
+  },
+  "63000": {
+    "hltb_found": false
+  },
+  "65300": {
+    "hltb_main_hours": 29.69,
+    "hltb_completionist_hours": 42.83,
+    "hltb_found": true
+  },
+  "65530": {
+    "hltb_main_hours": 3.38,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "65930": {
+    "hltb_main_hours": 10.56,
+    "hltb_completionist_hours": 17.68,
+    "hltb_found": true
+  },
+  "67000": {
+    "hltb_main_hours": 0.43,
+    "hltb_completionist_hours": 4.41,
+    "hltb_found": true
+  },
+  "70000": {
+    "hltb_main_hours": 5.95,
+    "hltb_completionist_hours": 14.2,
+    "hltb_found": true
+  },
+  "70300": {
+    "hltb_main_hours": 2.4,
+    "hltb_completionist_hours": 4.84,
+    "hltb_found": true
+  },
+  "70400": {
+    "hltb_main_hours": 13.24,
+    "hltb_completionist_hours": 49.72,
+    "hltb_found": true
+  },
+  "70600": {
+    "hltb_main_hours": 7.17,
+    "hltb_completionist_hours": 21.66,
+    "hltb_found": true
+  },
+  "70620": {
+    "hltb_main_hours": 3.95,
+    "hltb_completionist_hours": 12.02,
+    "hltb_found": true
+  },
+  "70640": {
+    "hltb_main_hours": 3.93,
+    "hltb_completionist_hours": 12.37,
+    "hltb_found": true
+  },
+  "70650": {
+    "hltb_main_hours": 6.62,
+    "hltb_completionist_hours": 14.0,
+    "hltb_found": true
+  },
+  "70660": {
+    "hltb_main_hours": 0.17,
+    "hltb_completionist_hours": 1.23,
+    "hltb_found": true
+  },
+  "71230": {
+    "hltb_main_hours": 2.58,
+    "hltb_completionist_hours": 6.45,
+    "hltb_found": true
+  },
+  "71240": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "71250": {
+    "hltb_main_hours": 9.08,
+    "hltb_completionist_hours": 34.09,
+    "hltb_found": true
+  },
+  "71260": {
+    "hltb_main_hours": 2.7,
+    "hltb_completionist_hours": 10.45,
+    "hltb_found": true
+  },
+  "71340": {
+    "hltb_main_hours": 5.41,
+    "hltb_completionist_hours": 23.73,
+    "hltb_found": true
+  },
+  "72400": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "72410": {
+    "hltb_found": false
+  },
+  "72850": {
+    "hltb_main_hours": 34.69,
+    "hltb_completionist_hours": 237.39,
+    "hltb_found": true
+  },
+  "80300": {
+    "hltb_main_hours": 2.48,
+    "hltb_completionist_hours": 2.82,
+    "hltb_found": true
+  },
+  "91310": {
+    "hltb_main_hours": 18.36,
+    "hltb_completionist_hours": 48.6,
+    "hltb_found": true
+  },
+  "92800": {
+    "hltb_main_hours": 41.52,
+    "hltb_completionist_hours": 65.91,
+    "hltb_found": true
+  },
+  "94300": {
+    "hltb_main_hours": 13.28,
+    "hltb_completionist_hours": 17.16,
+    "hltb_found": true
+  },
+  "94500": {
+    "hltb_main_hours": 2.25,
+    "hltb_completionist_hours": 2.71,
+    "hltb_found": true
+  },
+  "94510": {
+    "hltb_main_hours": 2.37,
+    "hltb_completionist_hours": 2.62,
+    "hltb_found": true
+  },
+  "94520": {
+    "hltb_main_hours": 2.51,
+    "hltb_completionist_hours": 2.85,
+    "hltb_found": true
+  },
+  "94530": {
+    "hltb_main_hours": 2.37,
+    "hltb_completionist_hours": 2.78,
+    "hltb_found": true
+  },
+  "94590": {
+    "hltb_main_hours": 3.17,
+    "hltb_completionist_hours": 4.15,
+    "hltb_found": true
+  },
+  "96300": {
+    "hltb_main_hours": 2.35,
+    "hltb_completionist_hours": 20.0,
+    "hltb_found": true
+  },
+  "98800": {
+    "hltb_main_hours": 18.49,
+    "hltb_completionist_hours": 81.47,
+    "hltb_found": true
+  },
+  "98900": {
+    "hltb_main_hours": 2.22,
+    "hltb_completionist_hours": 5.32,
+    "hltb_found": true
+  },
+  "99400": {
+    "hltb_main_hours": 3.42,
+    "hltb_completionist_hours": 7.36,
+    "hltb_found": true
+  },
+  "99410": {
+    "hltb_main_hours": 1.48,
+    "hltb_completionist_hours": 1.48,
+    "hltb_found": true
+  },
+  "104200": {
+    "hltb_main_hours": 5.27,
+    "hltb_completionist_hours": 6.91,
+    "hltb_found": true
+  },
+  "105600": {
+    "hltb_main_hours": 51.79,
+    "hltb_completionist_hours": 205.65,
+    "hltb_found": true
+  },
+  "107100": {
+    "hltb_main_hours": 6.24,
+    "hltb_completionist_hours": 20.47,
+    "hltb_found": true
+  },
+  "107300": {
+    "hltb_main_hours": 5.16,
+    "hltb_completionist_hours": 7.1,
+    "hltb_found": true
+  },
+  "107310": {
+    "hltb_main_hours": 7.71,
+    "hltb_completionist_hours": 13.69,
+    "hltb_found": true
+  },
+  "108710": {
+    "hltb_main_hours": 11.18,
+    "hltb_completionist_hours": 27.32,
+    "hltb_found": true
+  },
+  "113200": {
+    "hltb_main_hours": 10.88,
+    "hltb_completionist_hours": 141.03,
+    "hltb_found": true
+  },
+  "115100": {
+    "hltb_main_hours": 5.55,
+    "hltb_completionist_hours": 7.46,
+    "hltb_found": true
+  },
+  "115110": {
+    "hltb_main_hours": 3.98,
+    "hltb_completionist_hours": 9.03,
+    "hltb_found": true
+  },
+  "200170": {
+    "hltb_main_hours": 18.92,
+    "hltb_completionist_hours": 49.87,
+    "hltb_found": true
+  },
+  "200260": {
+    "hltb_main_hours": 13.5,
+    "hltb_completionist_hours": 59.19,
+    "hltb_found": true
+  },
+  "200710": {
+    "hltb_main_hours": 20.75,
+    "hltb_completionist_hours": 80.21,
+    "hltb_found": true
+  },
+  "200900": {
+    "hltb_main_hours": 6.31,
+    "hltb_completionist_hours": 11.11,
+    "hltb_found": true
+  },
+  "201420": {
+    "hltb_main_hours": 9.09,
+    "hltb_completionist_hours": 25.01,
+    "hltb_found": true
+  },
+  "201700": {
+    "hltb_main_hours": 9.01,
+    "hltb_completionist_hours": 19.82,
+    "hltb_found": true
+  },
+  "201810": {
+    "hltb_main_hours": 11.37,
+    "hltb_completionist_hours": 24.32,
+    "hltb_found": true
+  },
+  "201830": {
+    "hltb_main_hours": 6.85,
+    "hltb_completionist_hours": 9.35,
+    "hltb_found": true
+  },
+  "202070": {
+    "hltb_main_hours": 5.58,
+    "hltb_completionist_hours": 15.55,
+    "hltb_found": true
+  },
+  "202170": {
+    "hltb_found": false
+  },
+  "202270": {
+    "hltb_main_hours": 4.21,
+    "hltb_completionist_hours": 20.0,
+    "hltb_found": true
+  },
+  "202750": {
+    "hltb_main_hours": 3.62,
+    "hltb_completionist_hours": 8.54,
+    "hltb_found": true
+  },
+  "202970": {
+    "hltb_main_hours": 7.06,
+    "hltb_completionist_hours": 31.11,
+    "hltb_found": true
+  },
+  "202990": {
+    "hltb_found": false
+  },
+  "203160": {
+    "hltb_main_hours": 11.32,
+    "hltb_completionist_hours": 20.91,
+    "hltb_found": true
+  },
+  "203630": {
+    "hltb_found": false
+  },
+  "203750": {
+    "hltb_main_hours": 9.24,
+    "hltb_completionist_hours": 20.18,
+    "hltb_found": true
+  },
+  "203770": {
+    "hltb_main_hours": 67.06,
+    "hltb_completionist_hours": 421.46,
+    "hltb_found": true
+  },
+  "204080": {
+    "hltb_main_hours": 3.35,
+    "hltb_completionist_hours": 10.33,
+    "hltb_found": true
+  },
+  "204240": {
+    "hltb_main_hours": 3.47,
+    "hltb_completionist_hours": 7.49,
+    "hltb_found": true
+  },
+  "205100": {
+    "hltb_main_hours": 12.15,
+    "hltb_completionist_hours": 37.72,
+    "hltb_found": true
+  },
+  "205650": {
+    "hltb_main_hours": 12.15,
+    "hltb_completionist_hours": 13.48,
+    "hltb_found": true
+  },
+  "205910": {
+    "hltb_main_hours": 2.59,
+    "hltb_completionist_hours": 12.02,
+    "hltb_found": true
+  },
+  "205950": {
+    "hltb_main_hours": 6.83,
+    "hltb_completionist_hours": 20.63,
+    "hltb_found": true
+  },
+  "206190": {
+    "hltb_main_hours": 3.04,
+    "hltb_completionist_hours": 6.5,
+    "hltb_found": true
+  },
+  "206440": {
+    "hltb_main_hours": 4.12,
+    "hltb_completionist_hours": 4.62,
+    "hltb_found": true
+  },
+  "206980": {
+    "hltb_found": false
+  },
+  "207140": {
+    "hltb_main_hours": 2.15,
+    "hltb_completionist_hours": 15.72,
+    "hltb_found": true
+  },
+  "207370": {
+    "hltb_main_hours": 1.42,
+    "hltb_completionist_hours": 1.62,
+    "hltb_found": true
+  },
+  "207380": {
+    "hltb_main_hours": 1.0,
+    "hltb_completionist_hours": 3.0,
+    "hltb_found": true
+  },
+  "207400": {
+    "hltb_main_hours": 2.11,
+    "hltb_completionist_hours": 9.0,
+    "hltb_found": true
+  },
+  "207430": {
+    "hltb_main_hours": 1.55,
+    "hltb_completionist_hours": 62.1,
+    "hltb_found": true
+  },
+  "207610": {
+    "hltb_main_hours": 0.53,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "207650": {
+    "hltb_main_hours": 4.12,
+    "hltb_completionist_hours": 26.88,
+    "hltb_found": true
+  },
+  "208200": {
+    "hltb_main_hours": 9.62,
+    "hltb_completionist_hours": 37.92,
+    "hltb_found": true
+  },
+  "208480": {
+    "hltb_found": false
+  },
+  "208610": {
+    "hltb_found": false
+  },
+  "208650": {
+    "hltb_found": false
+  },
+  "209000": {
+    "hltb_found": false
+  },
+  "209060": {
+    "hltb_main_hours": 4.19,
+    "hltb_completionist_hours": 6.63,
+    "hltb_found": true
+  },
+  "209080": {
+    "hltb_main_hours": 6.02,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "209540": {
+    "hltb_main_hours": 7.56,
+    "hltb_completionist_hours": 16.78,
+    "hltb_found": true
+  },
+  "209630": {
+    "hltb_main_hours": 8.45,
+    "hltb_completionist_hours": 10.73,
+    "hltb_found": true
+  },
+  "210770": {
+    "hltb_main_hours": 12.09,
+    "hltb_completionist_hours": 57.76,
+    "hltb_found": true
+  },
+  "211010": {
+    "hltb_main_hours": 2.19,
+    "hltb_completionist_hours": 4.24,
+    "hltb_found": true
+  },
+  "211160": {
+    "hltb_main_hours": 13.34,
+    "hltb_completionist_hours": 19.73,
+    "hltb_found": true
+  },
+  "211420": {
+    "hltb_found": false
+  },
+  "211500": {
+    "hltb_main_hours": 8.5,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "211820": {
+    "hltb_main_hours": 25.0,
+    "hltb_completionist_hours": 166.01,
+    "hltb_found": true
+  },
+  "212480": {
+    "hltb_found": false
+  },
+  "212680": {
+    "hltb_main_hours": 12.08,
+    "hltb_completionist_hours": 112.86,
+    "hltb_found": true
+  },
+  "212910": {
+    "hltb_found": false
+  },
+  "213670": {
+    "hltb_found": false
+  },
+  "214360": {
+    "hltb_main_hours": 3.55,
+    "hltb_completionist_hours": 15.5,
+    "hltb_found": true
+  },
+  "214490": {
+    "hltb_main_hours": 18.29,
+    "hltb_completionist_hours": 34.06,
+    "hltb_found": true
+  },
+  "214510": {
+    "hltb_found": false
+  },
+  "214550": {
+    "hltb_main_hours": 1.31,
+    "hltb_completionist_hours": 3.77,
+    "hltb_found": true
+  },
+  "214560": {
+    "hltb_main_hours": 8.39,
+    "hltb_completionist_hours": 20.96,
+    "hltb_found": true
+  },
+  "214590": {
+    "hltb_main_hours": 2.94,
+    "hltb_completionist_hours": 18.74,
+    "hltb_found": true
+  },
+  "214610": {
+    "hltb_main_hours": 3.53,
+    "hltb_completionist_hours": 7.22,
+    "hltb_found": true
+  },
+  "214770": {
+    "hltb_main_hours": 6.17,
+    "hltb_completionist_hours": 14.44,
+    "hltb_found": true
+  },
+  "214790": {
+    "hltb_main_hours": 6.22,
+    "hltb_completionist_hours": 34.87,
+    "hltb_found": true
+  },
+  "214830": {
+    "hltb_main_hours": 4.83,
+    "hltb_completionist_hours": 24.93,
+    "hltb_found": true
+  },
+  "214870": {
+    "hltb_main_hours": 4.78,
+    "hltb_completionist_hours": 27.95,
+    "hltb_found": true
+  },
+  "215510": {
+    "hltb_main_hours": 3.49,
+    "hltb_completionist_hours": 8.16,
+    "hltb_found": true
+  },
+  "215670": {
+    "hltb_main_hours": 1.15,
+    "hltb_completionist_hours": 2.87,
+    "hltb_found": true
+  },
+  "217200": {
+    "hltb_main_hours": 8.33,
+    "hltb_completionist_hours": 25.08,
+    "hltb_found": true
+  },
+  "218060": {
+    "hltb_found": false
+  },
+  "218130": {
+    "hltb_main_hours": 1.0,
+    "hltb_completionist_hours": 1.08,
+    "hltb_found": true
+  },
+  "218620": {
+    "hltb_found": false
+  },
+  "218740": {
+    "hltb_main_hours": 9.48,
+    "hltb_completionist_hours": 17.62,
+    "hltb_found": true
+  },
+  "219150": {
+    "hltb_main_hours": 5.24,
+    "hltb_completionist_hours": 15.42,
+    "hltb_found": true
+  },
+  "219640": {
+    "hltb_main_hours": 13.61,
+    "hltb_completionist_hours": 172.15,
+    "hltb_found": true
+  },
+  "219890": {
+    "hltb_main_hours": 5.92,
+    "hltb_completionist_hours": 8.85,
+    "hltb_found": true
+  },
+  "219910": {
+    "hltb_main_hours": 7.51,
+    "hltb_completionist_hours": 9.72,
+    "hltb_found": true
+  },
+  "219950": {
+    "hltb_main_hours": 2.49,
+    "hltb_completionist_hours": 6.4,
+    "hltb_found": true
+  },
+  "219990": {
+    "hltb_main_hours": 21.54,
+    "hltb_completionist_hours": 242.82,
+    "hltb_found": true
+  },
+  "220700": {
+    "hltb_main_hours": 20.42,
+    "hltb_completionist_hours": 112.98,
+    "hltb_found": true
+  },
+  "220780": {
+    "hltb_main_hours": 3.53,
+    "hltb_completionist_hours": 4.17,
+    "hltb_found": true
+  },
+  "220820": {
+    "hltb_main_hours": 5.23,
+    "hltb_completionist_hours": 18.68,
+    "hltb_found": true
+  },
+  "220860": {
+    "hltb_main_hours": 1.67,
+    "hltb_completionist_hours": 3.58,
+    "hltb_found": true
+  },
+  "221020": {
+    "hltb_main_hours": 16.2,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "221100": {
+    "hltb_main_hours": 50.77,
+    "hltb_completionist_hours": 133.64,
+    "hltb_found": true
+  },
+  "221380": {
+    "hltb_found": false
+  },
+  "221640": {
+    "hltb_main_hours": 5.18,
+    "hltb_completionist_hours": 17.43,
+    "hltb_found": true
+  },
+  "222730": {
+    "hltb_main_hours": 8.13,
+    "hltb_completionist_hours": 67.94,
+    "hltb_found": true
+  },
+  "222880": {
+    "hltb_main_hours": 12.79,
+    "hltb_completionist_hours": 59.27,
+    "hltb_found": true
+  },
+  "222980": {
+    "hltb_main_hours": 2.03,
+    "hltb_completionist_hours": 14.66,
+    "hltb_found": true
+  },
+  "223470": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "224420": {
+    "hltb_main_hours": 6.71,
+    "hltb_completionist_hours": 16.29,
+    "hltb_found": true
+  },
+  "224460": {
+    "hltb_main_hours": 3.26,
+    "hltb_completionist_hours": 4.15,
+    "hltb_found": true
+  },
+  "224480": {
+    "hltb_main_hours": 2.42,
+    "hltb_completionist_hours": 7.76,
+    "hltb_found": true
+  },
+  "224760": {
+    "hltb_main_hours": 0.21,
+    "hltb_completionist_hours": 0.25,
+    "hltb_found": true
+  },
+  "225140": {
+    "hltb_main_hours": 10.59,
+    "hltb_completionist_hours": 21.31,
+    "hltb_found": true
+  },
+  "225160": {
+    "hltb_main_hours": 9.01,
+    "hltb_completionist_hours": 15.44,
+    "hltb_found": true
+  },
+  "225260": {
+    "hltb_main_hours": 9.23,
+    "hltb_completionist_hours": 24.84,
+    "hltb_found": true
+  },
+  "225280": {
+    "hltb_main_hours": 7.0,
+    "hltb_completionist_hours": 21.34,
+    "hltb_found": true
+  },
+  "227080": {
+    "hltb_main_hours": 3.37,
+    "hltb_completionist_hours": 6.09,
+    "hltb_found": true
+  },
+  "227280": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "227300": {
+    "hltb_main_hours": 45.91,
+    "hltb_completionist_hours": 457.98,
+    "hltb_found": true
+  },
+  "228280": {
+    "hltb_main_hours": 31.25,
+    "hltb_completionist_hours": 95.33,
+    "hltb_found": true
+  },
+  "228400": {
+    "hltb_found": false
+  },
+  "230050": {
+    "hltb_main_hours": 1.2,
+    "hltb_completionist_hours": 2.24,
+    "hltb_found": true
+  },
+  "230700": {
+    "hltb_main_hours": 21.0,
+    "hltb_completionist_hours": 66.4,
+    "hltb_found": true
+  },
+  "231200": {
+    "hltb_main_hours": 8.92,
+    "hltb_completionist_hours": 13.36,
+    "hltb_found": true
+  },
+  "231430": {
+    "hltb_main_hours": 15.79,
+    "hltb_completionist_hours": 64.01,
+    "hltb_found": true
+  },
+  "232770": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "232790": {
+    "hltb_main_hours": 6.04,
+    "hltb_completionist_hours": 8.54,
+    "hltb_found": true
+  },
+  "233130": {
+    "hltb_main_hours": 12.28,
+    "hltb_completionist_hours": 35.91,
+    "hltb_found": true
+  },
+  "233450": {
+    "hltb_main_hours": 17.0,
+    "hltb_completionist_hours": 70.2,
+    "hltb_found": true
+  },
+  "233720": {
+    "hltb_main_hours": 3.27,
+    "hltb_completionist_hours": 15.23,
+    "hltb_found": true
+  },
+  "233840": {
+    "hltb_main_hours": 8.07,
+    "hltb_completionist_hours": 16.43,
+    "hltb_found": true
+  },
+  "234140": {
+    "hltb_main_hours": 20.1,
+    "hltb_completionist_hours": 61.63,
+    "hltb_found": true
+  },
+  "234190": {
+    "hltb_main_hours": 3.23,
+    "hltb_completionist_hours": 6.17,
+    "hltb_found": true
+  },
+  "234390": {
+    "hltb_main_hours": 5.4,
+    "hltb_completionist_hours": 17.8,
+    "hltb_found": true
+  },
+  "234650": {
+    "hltb_main_hours": 11.6,
+    "hltb_completionist_hours": 17.77,
+    "hltb_found": true
+  },
+  "234710": {
+    "hltb_main_hours": 5.12,
+    "hltb_completionist_hours": 14.61,
+    "hltb_found": true
+  },
+  "234940": {
+    "hltb_main_hours": 4.09,
+    "hltb_completionist_hours": 4.86,
+    "hltb_found": true
+  },
+  "235250": {
+    "hltb_main_hours": 8.08,
+    "hltb_completionist_hours": 26.26,
+    "hltb_found": true
+  },
+  "235800": {
+    "hltb_main_hours": 10.68,
+    "hltb_completionist_hours": 280.5,
+    "hltb_found": true
+  },
+  "236830": {
+    "hltb_found": false
+  },
+  "237110": {
+    "hltb_main_hours": 8.83,
+    "hltb_completionist_hours": 72.84,
+    "hltb_found": true
+  },
+  "237740": {
+    "hltb_main_hours": 3.06,
+    "hltb_completionist_hours": 4.97,
+    "hltb_found": true
+  },
+  "237760": {
+    "hltb_main_hours": 2.13,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "238320": {
+    "hltb_main_hours": 5.14,
+    "hltb_completionist_hours": 11.43,
+    "hltb_found": true
+  },
+  "238370": {
+    "hltb_main_hours": 6.16,
+    "hltb_completionist_hours": 33.38,
+    "hltb_found": true
+  },
+  "239030": {
+    "hltb_main_hours": 5.02,
+    "hltb_completionist_hours": 16.11,
+    "hltb_found": true
+  },
+  "239200": {
+    "hltb_main_hours": 4.14,
+    "hltb_completionist_hours": 5.9,
+    "hltb_found": true
+  },
+  "239350": {
+    "hltb_main_hours": 20.26,
+    "hltb_completionist_hours": 96.98,
+    "hltb_found": true
+  },
+  "239450": {
+    "hltb_main_hours": 0.83,
+    "hltb_completionist_hours": 6.89,
+    "hltb_found": true
+  },
+  "239820": {
+    "hltb_main_hours": 8.61,
+    "hltb_completionist_hours": 25.9,
+    "hltb_found": true
+  },
+  "240760": {
+    "hltb_main_hours": 40.77,
+    "hltb_completionist_hours": 100.09,
+    "hltb_found": true
+  },
+  "241260": {
+    "hltb_main_hours": 12.6,
+    "hltb_completionist_hours": 15.45,
+    "hltb_found": true
+  },
+  "241320": {
+    "hltb_main_hours": 2.8,
+    "hltb_completionist_hours": 7.83,
+    "hltb_found": true
+  },
+  "241410": {
+    "hltb_main_hours": 7.05,
+    "hltb_completionist_hours": 20.55,
+    "hltb_found": true
+  },
+  "241600": {
+    "hltb_main_hours": 16.45,
+    "hltb_completionist_hours": 38.96,
+    "hltb_found": true
+  },
+  "241930": {
+    "hltb_found": false
+  },
+  "242110": {
+    "hltb_main_hours": 2.37,
+    "hltb_completionist_hours": 13.72,
+    "hltb_found": true
+  },
+  "242640": {
+    "hltb_main_hours": 17.02,
+    "hltb_completionist_hours": 41.37,
+    "hltb_found": true
+  },
+  "242680": {
+    "hltb_main_hours": 17.02,
+    "hltb_completionist_hours": 190.6,
+    "hltb_found": true
+  },
+  "242760": {
+    "hltb_main_hours": 15.71,
+    "hltb_completionist_hours": 58.65,
+    "hltb_found": true
+  },
+  "244870": {
+    "hltb_main_hours": 3.21,
+    "hltb_completionist_hours": 16.04,
+    "hltb_found": true
+  },
+  "245170": {
+    "hltb_main_hours": 3.21,
+    "hltb_completionist_hours": 68.26,
+    "hltb_found": true
+  },
+  "246420": {
+    "hltb_main_hours": 8.14,
+    "hltb_completionist_hours": 34.03,
+    "hltb_found": true
+  },
+  "246580": {
+    "hltb_main_hours": 3.91,
+    "hltb_completionist_hours": 22.58,
+    "hltb_found": true
+  },
+  "246620": {
+    "hltb_main_hours": 3.57,
+    "hltb_completionist_hours": 54.81,
+    "hltb_found": true
+  },
+  "247020": {
+    "hltb_main_hours": 18.9,
+    "hltb_completionist_hours": 37.05,
+    "hltb_found": true
+  },
+  "247080": {
+    "hltb_main_hours": 13.93,
+    "hltb_completionist_hours": 393.35,
+    "hltb_found": true
+  },
+  "247950": {
+    "hltb_main_hours": 8.63,
+    "hltb_completionist_hours": 16.48,
+    "hltb_found": true
+  },
+  "248190": {
+    "hltb_main_hours": 9.79,
+    "hltb_completionist_hours": 25.77,
+    "hltb_found": true
+  },
+  "248310": {
+    "hltb_main_hours": 4.79,
+    "hltb_completionist_hours": 22.05,
+    "hltb_found": true
+  },
+  "249050": {
+    "hltb_found": false
+  },
+  "249630": {
+    "hltb_main_hours": 1.77,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "249650": {
+    "hltb_main_hours": 40.9,
+    "hltb_completionist_hours": 58.23,
+    "hltb_found": true
+  },
+  "250180": {
+    "hltb_main_hours": 1.44,
+    "hltb_completionist_hours": 4.45,
+    "hltb_found": true
+  },
+  "250260": {
+    "hltb_main_hours": 2.08,
+    "hltb_completionist_hours": 3.63,
+    "hltb_found": true
+  },
+  "250320": {
+    "hltb_main_hours": 8.62,
+    "hltb_completionist_hours": 10.95,
+    "hltb_found": true
+  },
+  "250500": {
+    "hltb_main_hours": 1.23,
+    "hltb_completionist_hours": 15.1,
+    "hltb_found": true
+  },
+  "250580": {
+    "hltb_found": false
+  },
+  "250700": {
+    "hltb_main_hours": 4.52,
+    "hltb_completionist_hours": 15.43,
+    "hltb_found": true
+  },
+  "250900": {
+    "hltb_main_hours": 5.63,
+    "hltb_completionist_hours": 387.09,
+    "hltb_found": true
+  },
+  "251630": {
+    "hltb_main_hours": 2.04,
+    "hltb_completionist_hours": 4.94,
+    "hltb_found": true
+  },
+  "251830": {
+    "hltb_main_hours": 4.41,
+    "hltb_completionist_hours": 5.68,
+    "hltb_found": true
+  },
+  "251850": {
+    "hltb_main_hours": 4.13,
+    "hltb_completionist_hours": 6.64,
+    "hltb_found": true
+  },
+  "252110": {
+    "hltb_main_hours": 5.62,
+    "hltb_completionist_hours": 13.2,
+    "hltb_found": true
+  },
+  "252130": {
+    "hltb_main_hours": 4.56,
+    "hltb_completionist_hours": 7.47,
+    "hltb_found": true
+  },
+  "252370": {
+    "hltb_main_hours": 1.79,
+    "hltb_completionist_hours": 2.51,
+    "hltb_found": true
+  },
+  "252410": {
+    "hltb_main_hours": 5.04,
+    "hltb_completionist_hours": 8.42,
+    "hltb_found": true
+  },
+  "252950": {
+    "hltb_main_hours": 4.66,
+    "hltb_completionist_hours": 105.48,
+    "hltb_found": true
+  },
+  "253940": {
+    "hltb_main_hours": 48.93,
+    "hltb_completionist_hours": 58.99,
+    "hltb_found": true
+  },
+  "254080": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "255370": {
+    "hltb_found": false
+  },
+  "255520": {
+    "hltb_main_hours": 1.59,
+    "hltb_completionist_hours": 2.2,
+    "hltb_found": true
+  },
+  "255710": {
+    "hltb_main_hours": 27.43,
+    "hltb_completionist_hours": 182.15,
+    "hltb_found": true
+  },
+  "257890": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "258200": {
+    "hltb_found": false
+  },
+  "258520": {
+    "hltb_main_hours": 3.76,
+    "hltb_completionist_hours": 4.31,
+    "hltb_found": true
+  },
+  "259130": {
+    "hltb_found": false
+  },
+  "259760": {
+    "hltb_main_hours": 37.8,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "260750": {
+    "hltb_main_hours": 3.42,
+    "hltb_completionist_hours": 5.46,
+    "hltb_found": true
+  },
+  "260770": {
+    "hltb_main_hours": 2.66,
+    "hltb_completionist_hours": 3.75,
+    "hltb_found": true
+  },
+  "261110": {
+    "hltb_main_hours": 7.18,
+    "hltb_completionist_hours": 25.6,
+    "hltb_found": true
+  },
+  "261180": {
+    "hltb_main_hours": 7.43,
+    "hltb_completionist_hours": 20.23,
+    "hltb_found": true
+  },
+  "261510": {
+    "hltb_main_hours": 10.77,
+    "hltb_completionist_hours": 15.71,
+    "hltb_found": true
+  },
+  "261550": {
+    "hltb_main_hours": 52.68,
+    "hltb_completionist_hours": 171.05,
+    "hltb_found": true
+  },
+  "261640": {
+    "hltb_main_hours": 18.11,
+    "hltb_completionist_hours": 60.78,
+    "hltb_found": true
+  },
+  "262150": {
+    "hltb_main_hours": 0.76,
+    "hltb_completionist_hours": 2.32,
+    "hltb_found": true
+  },
+  "262280": {
+    "hltb_main_hours": 15.5,
+    "hltb_completionist_hours": 28.24,
+    "hltb_found": true
+  },
+  "264200": {
+    "hltb_main_hours": 7.07,
+    "hltb_completionist_hours": 35.95,
+    "hltb_found": true
+  },
+  "264710": {
+    "hltb_main_hours": 29.56,
+    "hltb_completionist_hours": 52.09,
+    "hltb_found": true
+  },
+  "264730": {
+    "hltb_main_hours": 4.09,
+    "hltb_completionist_hours": 5.68,
+    "hltb_found": true
+  },
+  "265380": {
+    "hltb_main_hours": 4.92,
+    "hltb_completionist_hours": 7.08,
+    "hltb_found": true
+  },
+  "265590": {
+    "hltb_main_hours": 14.89,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "265890": {
+    "hltb_main_hours": 1.96,
+    "hltb_completionist_hours": 2.69,
+    "hltb_found": true
+  },
+  "265930": {
+    "hltb_main_hours": 2.16,
+    "hltb_completionist_hours": 11.75,
+    "hltb_found": true
+  },
+  "265950": {
+    "hltb_main_hours": 5.59,
+    "hltb_completionist_hours": 11.0,
+    "hltb_found": true
+  },
+  "266510": {
+    "hltb_main_hours": 10.64,
+    "hltb_completionist_hours": 62.39,
+    "hltb_found": true
+  },
+  "268870": {
+    "hltb_main_hours": 21.08,
+    "hltb_completionist_hours": 40.61,
+    "hltb_found": true
+  },
+  "268910": {
+    "hltb_main_hours": 10.47,
+    "hltb_completionist_hours": 27.94,
+    "hltb_found": true
+  },
+  "269710": {
+    "hltb_main_hours": 24.5,
+    "hltb_completionist_hours": 35.0,
+    "hltb_found": true
+  },
+  "271500": {
+    "hltb_main_hours": 2.32,
+    "hltb_completionist_hours": 2.69,
+    "hltb_found": true
+  },
+  "271590": {
+    "hltb_found": false
+  },
+  "271640": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 21.88,
+    "hltb_found": true
+  },
+  "271900": {
+    "hltb_main_hours": 9.04,
+    "hltb_completionist_hours": 9.99,
+    "hltb_found": true
+  },
+  "272600": {
+    "hltb_main_hours": 2.44,
+    "hltb_completionist_hours": 3.07,
+    "hltb_found": true
+  },
+  "274170": {
+    "hltb_main_hours": 8.78,
+    "hltb_completionist_hours": 33.66,
+    "hltb_found": true
+  },
+  "274190": {
+    "hltb_main_hours": 7.21,
+    "hltb_completionist_hours": 17.61,
+    "hltb_found": true
+  },
+  "274310": {
+    "hltb_main_hours": 9.02,
+    "hltb_completionist_hours": 12.23,
+    "hltb_found": true
+  },
+  "274350": {
+    "hltb_main_hours": 4.34,
+    "hltb_completionist_hours": 7.03,
+    "hltb_found": true
+  },
+  "274980": {
+    "hltb_main_hours": 5.76,
+    "hltb_completionist_hours": 10.02,
+    "hltb_found": true
+  },
+  "275390": {
+    "hltb_main_hours": 7.02,
+    "hltb_completionist_hours": 15.82,
+    "hltb_found": true
+  },
+  "276810": {
+    "hltb_main_hours": 15.91,
+    "hltb_completionist_hours": 94.11,
+    "hltb_found": true
+  },
+  "278080": {
+    "hltb_main_hours": 21.23,
+    "hltb_completionist_hours": 128.36,
+    "hltb_found": true
+  },
+  "280040": {
+    "hltb_main_hours": 1.52,
+    "hltb_completionist_hours": 25.06,
+    "hltb_found": true
+  },
+  "282070": {
+    "hltb_main_hours": 11.28,
+    "hltb_completionist_hours": 41.71,
+    "hltb_found": true
+  },
+  "282900": {
+    "hltb_found": false
+  },
+  "285010": {
+    "hltb_main_hours": 6.93,
+    "hltb_completionist_hours": 9.49,
+    "hltb_found": true
+  },
+  "285160": {
+    "hltb_found": false
+  },
+  "285330": {
+    "hltb_main_hours": 19.37,
+    "hltb_completionist_hours": 91.83,
+    "hltb_found": true
+  },
+  "285440": {
+    "hltb_main_hours": 1.05,
+    "hltb_completionist_hours": 13.03,
+    "hltb_found": true
+  },
+  "285820": {
+    "hltb_main_hours": 4.14,
+    "hltb_completionist_hours": 30.91,
+    "hltb_found": true
+  },
+  "285840": {
+    "hltb_main_hours": 3.89,
+    "hltb_completionist_hours": 7.64,
+    "hltb_found": true
+  },
+  "285900": {
+    "hltb_main_hours": 2.15,
+    "hltb_completionist_hours": 7.5,
+    "hltb_found": true
+  },
+  "286160": {
+    "hltb_main_hours": 9.86,
+    "hltb_completionist_hours": 1224.61,
+    "hltb_found": true
+  },
+  "286570": {
+    "hltb_main_hours": 14.08,
+    "hltb_completionist_hours": 47.24,
+    "hltb_found": true
+  },
+  "289070": {
+    "hltb_main_hours": 23.31,
+    "hltb_completionist_hours": 387.6,
+    "hltb_found": true
+  },
+  "289130": {
+    "hltb_found": false
+  },
+  "289650": {
+    "hltb_main_hours": 17.21,
+    "hltb_completionist_hours": 80.09,
+    "hltb_found": true
+  },
+  "290300": {
+    "hltb_main_hours": 21.92,
+    "hltb_completionist_hours": 53.35,
+    "hltb_found": true
+  },
+  "292030": {
+    "hltb_main_hours": 51.64,
+    "hltb_completionist_hours": 174.49,
+    "hltb_found": true
+  },
+  "292230": {
+    "hltb_found": false
+  },
+  "292910": {
+    "hltb_main_hours": 26.3,
+    "hltb_completionist_hours": 35.21,
+    "hltb_found": true
+  },
+  "293740": {
+    "hltb_main_hours": 6.97,
+    "hltb_completionist_hours": 24.46,
+    "hltb_found": true
+  },
+  "293780": {
+    "hltb_main_hours": 1.21,
+    "hltb_completionist_hours": 13.74,
+    "hltb_found": true
+  },
+  "294100": {
+    "hltb_main_hours": 63.58,
+    "hltb_completionist_hours": 300.56,
+    "hltb_found": true
+  },
+  "294440": {
+    "hltb_main_hours": 4.6,
+    "hltb_completionist_hours": 14.93,
+    "hltb_found": true
+  },
+  "295790": {
+    "hltb_found": false
+  },
+  "296710": {
+    "hltb_main_hours": 1.51,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "296970": {
+    "hltb_main_hours": 5.69,
+    "hltb_completionist_hours": 92.84,
+    "hltb_found": true
+  },
+  "297130": {
+    "hltb_main_hours": 3.14,
+    "hltb_completionist_hours": 7.38,
+    "hltb_found": true
+  },
+  "298630": {
+    "hltb_main_hours": 19.43,
+    "hltb_completionist_hours": 44.37,
+    "hltb_found": true
+  },
+  "299260": {
+    "hltb_main_hours": 3.37,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "300380": {
+    "hltb_main_hours": 5.71,
+    "hltb_completionist_hours": 36.73,
+    "hltb_found": true
+  },
+  "300570": {
+    "hltb_main_hours": 37.91,
+    "hltb_completionist_hours": 63.88,
+    "hltb_found": true
+  },
+  "300580": {
+    "hltb_found": false
+  },
+  "301700": {
+    "hltb_main_hours": 2.81,
+    "hltb_completionist_hours": 3.97,
+    "hltb_found": true
+  },
+  "301750": {
+    "hltb_main_hours": 1.15,
+    "hltb_completionist_hours": 2.83,
+    "hltb_found": true
+  },
+  "302310": {
+    "hltb_main_hours": 6.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "303210": {
+    "hltb_main_hours": 1.54,
+    "hltb_completionist_hours": 1.7,
+    "hltb_found": true
+  },
+  "303310": {
+    "hltb_main_hours": 30.11,
+    "hltb_completionist_hours": 35.62,
+    "hltb_found": true
+  },
+  "304410": {
+    "hltb_main_hours": 5.45,
+    "hltb_completionist_hours": 18.47,
+    "hltb_found": true
+  },
+  "307590": {
+    "hltb_main_hours": 2.35,
+    "hltb_completionist_hours": 6.61,
+    "hltb_found": true
+  },
+  "307780": {
+    "hltb_main_hours": 5.69,
+    "hltb_completionist_hours": 69.23,
+    "hltb_found": true
+  },
+  "308040": {
+    "hltb_main_hours": 1.38,
+    "hltb_completionist_hours": 3.73,
+    "hltb_found": true
+  },
+  "310070": {
+    "hltb_main_hours": 1.07,
+    "hltb_completionist_hours": 1.72,
+    "hltb_found": true
+  },
+  "311210": {
+    "hltb_main_hours": 9.03,
+    "hltb_completionist_hours": 84.67,
+    "hltb_found": true
+  },
+  "311240": {
+    "hltb_main_hours": 20.39,
+    "hltb_completionist_hours": 21.76,
+    "hltb_found": true
+  },
+  "311340": {
+    "hltb_found": false
+  },
+  "311480": {
+    "hltb_main_hours": 5.33,
+    "hltb_completionist_hours": 14.97,
+    "hltb_found": true
+  },
+  "311690": {
+    "hltb_main_hours": 22.46,
+    "hltb_completionist_hours": 160.05,
+    "hltb_found": true
+  },
+  "313690": {
+    "hltb_found": false
+  },
+  "313740": {
+    "hltb_main_hours": 2.58,
+    "hltb_completionist_hours": 3.81,
+    "hltb_found": true
+  },
+  "314660": {
+    "hltb_main_hours": 7.44,
+    "hltb_completionist_hours": 12.07,
+    "hltb_found": true
+  },
+  "316790": {
+    "hltb_main_hours": 10.94,
+    "hltb_completionist_hours": 12.03,
+    "hltb_found": true
+  },
+  "317820": {
+    "hltb_found": false
+  },
+  "318600": {
+    "hltb_main_hours": 8.65,
+    "hltb_completionist_hours": 49.91,
+    "hltb_found": true
+  },
+  "319510": {
+    "hltb_main_hours": 2.17,
+    "hltb_completionist_hours": 4.82,
+    "hltb_found": true
+  },
+  "321040": {
+    "hltb_main_hours": 15.38,
+    "hltb_completionist_hours": 40.7,
+    "hltb_found": true
+  },
+  "321190": {
+    "hltb_main_hours": 8.7,
+    "hltb_completionist_hours": 30.92,
+    "hltb_found": true
+  },
+  "321270": {
+    "hltb_main_hours": 6.03,
+    "hltb_completionist_hours": 74.61,
+    "hltb_found": true
+  },
+  "321920": {
+    "hltb_main_hours": 7.24,
+    "hltb_completionist_hours": 12.83,
+    "hltb_found": true
+  },
+  "322330": {
+    "hltb_main_hours": 34.13,
+    "hltb_completionist_hours": 213.71,
+    "hltb_found": true
+  },
+  "323380": {
+    "hltb_main_hours": 3.66,
+    "hltb_completionist_hours": 9.15,
+    "hltb_found": true
+  },
+  "323470": {
+    "hltb_found": false
+  },
+  "323850": {
+    "hltb_main_hours": 11.2,
+    "hltb_completionist_hours": 14.95,
+    "hltb_found": true
+  },
+  "325370": {
+    "hltb_main_hours": 5.62,
+    "hltb_completionist_hours": 8.89,
+    "hltb_found": true
+  },
+  "326950": {
+    "hltb_main_hours": 2.09,
+    "hltb_completionist_hours": 4.26,
+    "hltb_found": true
+  },
+  "326990": {
+    "hltb_main_hours": 6.8,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "327510": {
+    "hltb_found": false
+  },
+  "327890": {
+    "hltb_main_hours": 2.83,
+    "hltb_completionist_hours": 11.28,
+    "hltb_found": true
+  },
+  "329460": {
+    "hltb_main_hours": 3.25,
+    "hltb_completionist_hours": 12.76,
+    "hltb_found": true
+  },
+  "330830": {
+    "hltb_main_hours": 10.6,
+    "hltb_completionist_hours": 11.59,
+    "hltb_found": true
+  },
+  "331600": {
+    "hltb_found": false
+  },
+  "332500": {
+    "hltb_main_hours": 11.33,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "333220": {
+    "hltb_main_hours": 2.17,
+    "hltb_completionist_hours": 3.15,
+    "hltb_found": true
+  },
+  "333600": {
+    "hltb_main_hours": 4.61,
+    "hltb_completionist_hours": 5.57,
+    "hltb_found": true
+  },
+  "333650": {
+    "hltb_found": false
+  },
+  "333980": {
+    "hltb_main_hours": 8.97,
+    "hltb_completionist_hours": 38.33,
+    "hltb_found": true
+  },
+  "334940": {
+    "hltb_main_hours": 5.66,
+    "hltb_completionist_hours": 11.29,
+    "hltb_found": true
+  },
+  "335300": {
+    "hltb_found": false
+  },
+  "335670": {
+    "hltb_main_hours": 1.21,
+    "hltb_completionist_hours": 1.52,
+    "hltb_found": true
+  },
+  "336020": {
+    "hltb_main_hours": 0.72,
+    "hltb_completionist_hours": 4.93,
+    "hltb_found": true
+  },
+  "337150": {
+    "hltb_main_hours": 2.39,
+    "hltb_completionist_hours": 181.48,
+    "hltb_found": true
+  },
+  "337850": {
+    "hltb_main_hours": 37.37,
+    "hltb_completionist_hours": 91.82,
+    "hltb_found": true
+  },
+  "339400": {
+    "hltb_main_hours": 7.74,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "339800": {
+    "hltb_main_hours": 9.53,
+    "hltb_completionist_hours": 34.29,
+    "hltb_found": true
+  },
+  "341440": {
+    "hltb_main_hours": 1.33,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "341800": {
+    "hltb_main_hours": 5.21,
+    "hltb_completionist_hours": 13.83,
+    "hltb_found": true
+  },
+  "342020": {
+    "hltb_main_hours": 3.94,
+    "hltb_completionist_hours": 12.88,
+    "hltb_found": true
+  },
+  "342360": {
+    "hltb_main_hours": 0.58,
+    "hltb_completionist_hours": 3.56,
+    "hltb_found": true
+  },
+  "342620": {
+    "hltb_main_hours": 4.46,
+    "hltb_completionist_hours": 41.8,
+    "hltb_found": true
+  },
+  "343710": {
+    "hltb_found": false
+  },
+  "343800": {
+    "hltb_main_hours": 2.0,
+    "hltb_completionist_hours": 3.24,
+    "hltb_found": true
+  },
+  "345820": {
+    "hltb_main_hours": 8.11,
+    "hltb_completionist_hours": 10.49,
+    "hltb_found": true
+  },
+  "346110": {
+    "hltb_main_hours": 68.06,
+    "hltb_completionist_hours": 940.01,
+    "hltb_found": true
+  },
+  "347160": {
+    "hltb_main_hours": 1.91,
+    "hltb_completionist_hours": 24.44,
+    "hltb_found": true
+  },
+  "347830": {
+    "hltb_main_hours": 24.6,
+    "hltb_completionist_hours": 56.89,
+    "hltb_found": true
+  },
+  "348550": {
+    "hltb_main_hours": 3.27,
+    "hltb_completionist_hours": 85.89,
+    "hltb_found": true
+  },
+  "350080": {
+    "hltb_main_hours": 5.92,
+    "hltb_completionist_hours": 15.78,
+    "hltb_found": true
+  },
+  "350640": {
+    "hltb_main_hours": 10.16,
+    "hltb_completionist_hours": 12.32,
+    "hltb_found": true
+  },
+  "350810": {
+    "hltb_main_hours": 16.15,
+    "hltb_completionist_hours": 16.31,
+    "hltb_found": true
+  },
+  "350970": {
+    "hltb_main_hours": 1.39,
+    "hltb_completionist_hours": 1.67,
+    "hltb_found": true
+  },
+  "351090": {
+    "hltb_main_hours": 8.68,
+    "hltb_completionist_hours": 12.4,
+    "hltb_found": true
+  },
+  "351250": {
+    "hltb_main_hours": 4.62,
+    "hltb_completionist_hours": 11.0,
+    "hltb_found": true
+  },
+  "351710": {
+    "hltb_found": false
+  },
+  "353090": {
+    "hltb_main_hours": 3.39,
+    "hltb_completionist_hours": 14.5,
+    "hltb_found": true
+  },
+  "353270": {
+    "hltb_found": false
+  },
+  "353640": {
+    "hltb_main_hours": 8.7,
+    "hltb_completionist_hours": 19.37,
+    "hltb_found": true
+  },
+  "356050": {
+    "hltb_main_hours": 2.01,
+    "hltb_completionist_hours": 3.43,
+    "hltb_found": true
+  },
+  "356190": {
+    "hltb_found": false
+  },
+  "356570": {
+    "hltb_main_hours": 6.22,
+    "hltb_completionist_hours": 14.13,
+    "hltb_found": true
+  },
+  "359050": {
+    "hltb_main_hours": 1.89,
+    "hltb_completionist_hours": 5.58,
+    "hltb_found": true
+  },
+  "359390": {
+    "hltb_found": false
+  },
+  "359510": {
+    "hltb_main_hours": 5.56,
+    "hltb_completionist_hours": 6.17,
+    "hltb_found": true
+  },
+  "359870": {
+    "hltb_main_hours": 50.41,
+    "hltb_completionist_hours": 161.09,
+    "hltb_found": true
+  },
+  "360150": {
+    "hltb_main_hours": 12.33,
+    "hltb_completionist_hours": 25.27,
+    "hltb_found": true
+  },
+  "361850": {
+    "hltb_main_hours": 4.41,
+    "hltb_completionist_hours": 5.47,
+    "hltb_found": true
+  },
+  "362680": {
+    "hltb_main_hours": 7.61,
+    "hltb_completionist_hours": 8.77,
+    "hltb_found": true
+  },
+  "365450": {
+    "hltb_main_hours": 7.2,
+    "hltb_completionist_hours": 11.32,
+    "hltb_found": true
+  },
+  "365770": {
+    "hltb_main_hours": 6.96,
+    "hltb_completionist_hours": 8.23,
+    "hltb_found": true
+  },
+  "365810": {
+    "hltb_main_hours": 4.15,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "366220": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "367000": {
+    "hltb_main_hours": 4.62,
+    "hltb_completionist_hours": 14.64,
+    "hltb_found": true
+  },
+  "367450": {
+    "hltb_main_hours": 10.83,
+    "hltb_completionist_hours": 38.53,
+    "hltb_found": true
+  },
+  "367500": {
+    "hltb_main_hours": 32.69,
+    "hltb_completionist_hours": 113.28,
+    "hltb_found": true
+  },
+  "367540": {
+    "hltb_found": false
+  },
+  "368370": {
+    "hltb_main_hours": 2.41,
+    "hltb_completionist_hours": 4.15,
+    "hltb_found": true
+  },
+  "368730": {
+    "hltb_main_hours": 2.58,
+    "hltb_completionist_hours": 6.45,
+    "hltb_found": true
+  },
+  "370040": {
+    "hltb_main_hours": 17.0,
+    "hltb_completionist_hours": 19.0,
+    "hltb_found": true
+  },
+  "370360": {
+    "hltb_main_hours": 14.34,
+    "hltb_completionist_hours": 36.04,
+    "hltb_found": true
+  },
+  "370910": {
+    "hltb_main_hours": 6.03,
+    "hltb_completionist_hours": 6.98,
+    "hltb_found": true
+  },
+  "373480": {
+    "hltb_main_hours": 2.61,
+    "hltb_completionist_hours": 6.3,
+    "hltb_found": true
+  },
+  "373770": {
+    "hltb_main_hours": 4.11,
+    "hltb_completionist_hours": 5.18,
+    "hltb_found": true
+  },
+  "374320": {
+    "hltb_found": false
+  },
+  "377160": {
+    "hltb_main_hours": 27.81,
+    "hltb_completionist_hours": 160.5,
+    "hltb_found": true
+  },
+  "377360": {
+    "hltb_main_hours": 0.52,
+    "hltb_completionist_hours": 2.8,
+    "hltb_found": true
+  },
+  "377840": {
+    "hltb_found": false
+  },
+  "379430": {
+    "hltb_main_hours": 42.57,
+    "hltb_completionist_hours": 136.63,
+    "hltb_found": true
+  },
+  "379720": {
+    "hltb_main_hours": 10.54,
+    "hltb_completionist_hours": 14.98,
+    "hltb_found": true
+  },
+  "381210": {
+    "hltb_main_hours": 79.9,
+    "hltb_completionist_hours": 797.33,
+    "hltb_found": true
+  },
+  "383270": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 5.22,
+    "hltb_found": true
+  },
+  "384300": {
+    "hltb_found": false
+  },
+  "384630": {
+    "hltb_main_hours": 4.5,
+    "hltb_completionist_hours": 7.92,
+    "hltb_found": true
+  },
+  "385800": {
+    "hltb_main_hours": 1.03,
+    "hltb_completionist_hours": 1.49,
+    "hltb_found": true
+  },
+  "386070": {
+    "hltb_main_hours": 5.05,
+    "hltb_completionist_hours": 32.1,
+    "hltb_found": true
+  },
+  "386940": {
+    "hltb_main_hours": 5.04,
+    "hltb_completionist_hours": 26.78,
+    "hltb_found": true
+  },
+  "387340": {
+    "hltb_main_hours": 10.21,
+    "hltb_completionist_hours": 37.29,
+    "hltb_found": true
+  },
+  "388880": {
+    "hltb_main_hours": 4.45,
+    "hltb_completionist_hours": 13.18,
+    "hltb_found": true
+  },
+  "390520": {
+    "hltb_main_hours": 3.18,
+    "hltb_completionist_hours": 18.47,
+    "hltb_found": true
+  },
+  "391220": {
+    "hltb_main_hours": 13.31,
+    "hltb_completionist_hours": 35.38,
+    "hltb_found": true
+  },
+  "391540": {
+    "hltb_main_hours": 7.02,
+    "hltb_completionist_hours": 20.7,
+    "hltb_found": true
+  },
+  "391720": {
+    "hltb_found": false
+  },
+  "391920": {
+    "hltb_main_hours": 5.59,
+    "hltb_completionist_hours": 11.0,
+    "hltb_found": true
+  },
+  "392410": {
+    "hltb_main_hours": 25.2,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "393420": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 100.0,
+    "hltb_found": true
+  },
+  "394310": {
+    "hltb_main_hours": 10.36,
+    "hltb_completionist_hours": 23.62,
+    "hltb_found": true
+  },
+  "394510": {
+    "hltb_found": false
+  },
+  "394970": {
+    "hltb_found": false
+  },
+  "395170": {
+    "hltb_found": false
+  },
+  "396710": {
+    "hltb_main_hours": 8.67,
+    "hltb_completionist_hours": 11.93,
+    "hltb_found": true
+  },
+  "397080": {
+    "hltb_found": false
+  },
+  "397460": {
+    "hltb_main_hours": 6.9,
+    "hltb_completionist_hours": 9.82,
+    "hltb_found": true
+  },
+  "397540": {
+    "hltb_main_hours": 23.41,
+    "hltb_completionist_hours": 84.28,
+    "hltb_found": true
+  },
+  "397950": {
+    "hltb_main_hours": 3.63,
+    "hltb_completionist_hours": 8.31,
+    "hltb_found": true
+  },
+  "399780": {
+    "hltb_main_hours": 2.07,
+    "hltb_completionist_hours": 2.14,
+    "hltb_found": true
+  },
+  "400170": {
+    "hltb_main_hours": 17.73,
+    "hltb_completionist_hours": 39.32,
+    "hltb_found": true
+  },
+  "400430": {
+    "hltb_main_hours": 3.76,
+    "hltb_completionist_hours": 4.31,
+    "hltb_found": true
+  },
+  "401810": {
+    "hltb_main_hours": 5.8,
+    "hltb_completionist_hours": 8.83,
+    "hltb_found": true
+  },
+  "404730": {
+    "hltb_main_hours": 40.77,
+    "hltb_completionist_hours": 100.09,
+    "hltb_found": true
+  },
+  "405640": {
+    "hltb_main_hours": 2.4,
+    "hltb_completionist_hours": 4.69,
+    "hltb_found": true
+  },
+  "405900": {
+    "hltb_main_hours": 32.67,
+    "hltb_completionist_hours": 447.8,
+    "hltb_found": true
+  },
+  "407530": {
+    "hltb_main_hours": 51.5,
+    "hltb_completionist_hours": 55.25,
+    "hltb_found": true
+  },
+  "409710": {
+    "hltb_main_hours": 12.11,
+    "hltb_completionist_hours": 23.23,
+    "hltb_found": true
+  },
+  "409720": {
+    "hltb_main_hours": 10.57,
+    "hltb_completionist_hours": 23.72,
+    "hltb_found": true
+  },
+  "410820": {
+    "hltb_main_hours": 2.78,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "413150": {
+    "hltb_main_hours": 53.4,
+    "hltb_completionist_hours": 171.76,
+    "hltb_found": true
+  },
+  "413410": {
+    "hltb_main_hours": 25.22,
+    "hltb_completionist_hours": 45.31,
+    "hltb_found": true
+  },
+  "413420": {
+    "hltb_main_hours": 33.64,
+    "hltb_completionist_hours": 60.37,
+    "hltb_found": true
+  },
+  "414340": {
+    "hltb_main_hours": 7.53,
+    "hltb_completionist_hours": 9.22,
+    "hltb_found": true
+  },
+  "415480": {
+    "hltb_main_hours": 22.24,
+    "hltb_completionist_hours": 82.61,
+    "hltb_found": true
+  },
+  "418460": {
+    "hltb_main_hours": 2.18,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "420110": {
+    "hltb_main_hours": 4.04,
+    "hltb_completionist_hours": 4.92,
+    "hltb_found": true
+  },
+  "421020": {
+    "hltb_main_hours": 30.53,
+    "hltb_completionist_hours": 81.12,
+    "hltb_found": true
+  },
+  "421040": {
+    "hltb_main_hours": 2.23,
+    "hltb_completionist_hours": 13.99,
+    "hltb_found": true
+  },
+  "421050": {
+    "hltb_main_hours": 10.92,
+    "hltb_completionist_hours": 13.98,
+    "hltb_found": true
+  },
+  "422970": {
+    "hltb_main_hours": 4.15,
+    "hltb_completionist_hours": 87.18,
+    "hltb_found": true
+  },
+  "424840": {
+    "hltb_main_hours": 3.57,
+    "hltb_completionist_hours": 9.1,
+    "hltb_found": true
+  },
+  "425210": {
+    "hltb_main_hours": 5.92,
+    "hltb_completionist_hours": 14.99,
+    "hltb_found": true
+  },
+  "425220": {
+    "hltb_found": false
+  },
+  "425410": {
+    "hltb_main_hours": 2.61,
+    "hltb_completionist_hours": 10.96,
+    "hltb_found": true
+  },
+  "429330": {
+    "hltb_main_hours": 1.61,
+    "hltb_completionist_hours": 11.31,
+    "hltb_found": true
+  },
+  "431960": {
+    "hltb_found": false
+  },
+  "433340": {
+    "hltb_main_hours": 14.62,
+    "hltb_completionist_hours": 38.55,
+    "hltb_found": true
+  },
+  "435120": {
+    "hltb_main_hours": 1.92,
+    "hltb_completionist_hours": 2.35,
+    "hltb_found": true
+  },
+  "435530": {
+    "hltb_main_hours": 4.57,
+    "hltb_completionist_hours": 7.86,
+    "hltb_found": true
+  },
+  "438790": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "442210": {
+    "hltb_main_hours": 1.39,
+    "hltb_completionist_hours": 6.0,
+    "hltb_found": true
+  },
+  "447530": {
+    "hltb_main_hours": 11.06,
+    "hltb_completionist_hours": 18.07,
+    "hltb_found": true
+  },
+  "451780": {
+    "hltb_main_hours": 16.97,
+    "hltb_completionist_hours": 47.89,
+    "hltb_found": true
+  },
+  "453910": {
+    "hltb_main_hours": 6.0,
+    "hltb_completionist_hours": 13.82,
+    "hltb_found": true
+  },
+  "460120": {
+    "hltb_main_hours": 35.32,
+    "hltb_completionist_hours": 76.96,
+    "hltb_found": true
+  },
+  "460430": {
+    "hltb_main_hours": 0.58,
+    "hltb_completionist_hours": 0.63,
+    "hltb_found": true
+  },
+  "462780": {
+    "hltb_main_hours": 17.07,
+    "hltb_completionist_hours": 27.99,
+    "hltb_found": true
+  },
+  "464920": {
+    "hltb_main_hours": 22.19,
+    "hltb_completionist_hours": 190.27,
+    "hltb_found": true
+  },
+  "475550": {
+    "hltb_main_hours": 6.09,
+    "hltb_completionist_hours": 21.41,
+    "hltb_found": true
+  },
+  "477740": {
+    "hltb_main_hours": 34.01,
+    "hltb_completionist_hours": 50.98,
+    "hltb_found": true
+  },
+  "480650": {
+    "hltb_main_hours": 18.79,
+    "hltb_completionist_hours": 73.55,
+    "hltb_found": true
+  },
+  "483980": {
+    "hltb_main_hours": 3.08,
+    "hltb_completionist_hours": 5.11,
+    "hltb_found": true
+  },
+  "485510": {
+    "hltb_main_hours": 41.93,
+    "hltb_completionist_hours": 143.62,
+    "hltb_found": true
+  },
+  "486880": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 3.01,
+    "hltb_found": true
+  },
+  "487350": {
+    "hltb_main_hours": 2.03,
+    "hltb_completionist_hours": 14.75,
+    "hltb_found": true
+  },
+  "488790": {
+    "hltb_main_hours": 18.19,
+    "hltb_completionist_hours": 28.26,
+    "hltb_found": true
+  },
+  "489520": {
+    "hltb_main_hours": 4.45,
+    "hltb_completionist_hours": 110.91,
+    "hltb_found": true
+  },
+  "489830": {
+    "hltb_main_hours": 26.0,
+    "hltb_completionist_hours": 203.1,
+    "hltb_found": true
+  },
+  "490450": {
+    "hltb_main_hours": 7.07,
+    "hltb_completionist_hours": 20.9,
+    "hltb_found": true
+  },
+  "491950": {
+    "hltb_main_hours": 4.56,
+    "hltb_completionist_hours": 9.66,
+    "hltb_found": true
+  },
+  "495280": {
+    "hltb_main_hours": 32.67,
+    "hltb_completionist_hours": 447.8,
+    "hltb_found": true
+  },
+  "496810": {
+    "hltb_main_hours": 6.21,
+    "hltb_completionist_hours": 20.67,
+    "hltb_found": true
+  },
+  "498240": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "503980": {
+    "hltb_main_hours": 0.62,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "504130": {
+    "hltb_found": false
+  },
+  "510620": {
+    "hltb_main_hours": 1.51,
+    "hltb_completionist_hours": 6.1,
+    "hltb_found": true
+  },
+  "511350": {
+    "hltb_main_hours": 1.28,
+    "hltb_completionist_hours": 2.08,
+    "hltb_found": true
+  },
+  "511740": {
+    "hltb_main_hours": 3.74,
+    "hltb_completionist_hours": 36.78,
+    "hltb_found": true
+  },
+  "512900": {
+    "hltb_main_hours": 10.5,
+    "hltb_completionist_hours": 45.49,
+    "hltb_found": true
+  },
+  "522210": {
+    "hltb_main_hours": 4.88,
+    "hltb_completionist_hours": 9.11,
+    "hltb_found": true
+  },
+  "524220": {
+    "hltb_found": false
+  },
+  "524580": {
+    "hltb_main_hours": 25.07,
+    "hltb_completionist_hours": 64.77,
+    "hltb_found": true
+  },
+  "526870": {
+    "hltb_main_hours": 106.59,
+    "hltb_completionist_hours": 224.04,
+    "hltb_found": true
+  },
+  "531510": {
+    "hltb_main_hours": 3.33,
+    "hltb_completionist_hours": 34.01,
+    "hltb_found": true
+  },
+  "532110": {
+    "hltb_main_hours": 4.03,
+    "hltb_completionist_hours": 5.13,
+    "hltb_found": true
+  },
+  "537110": {
+    "hltb_main_hours": 7.08,
+    "hltb_completionist_hours": 7.64,
+    "hltb_found": true
+  },
+  "537340": {
+    "hltb_main_hours": 4.79,
+    "hltb_completionist_hours": 7.45,
+    "hltb_found": true
+  },
+  "538590": {
+    "hltb_main_hours": 0.39,
+    "hltb_completionist_hours": 0.57,
+    "hltb_found": true
+  },
+  "552520": {
+    "hltb_main_hours": 18.34,
+    "hltb_completionist_hours": 47.71,
+    "hltb_found": true
+  },
+  "552590": {
+    "hltb_main_hours": 5.94,
+    "hltb_completionist_hours": 8.52,
+    "hltb_found": true
+  },
+  "555950": {
+    "hltb_main_hours": 16.3,
+    "hltb_completionist_hours": 25.62,
+    "hltb_found": true
+  },
+  "561770": {
+    "hltb_main_hours": 2.28,
+    "hltb_completionist_hours": 3.74,
+    "hltb_found": true
+  },
+  "564310": {
+    "hltb_found": false
+  },
+  "567640": {
+    "hltb_main_hours": 39.36,
+    "hltb_completionist_hours": 98.12,
+    "hltb_found": true
+  },
+  "571530": {
+    "hltb_main_hours": 16.69,
+    "hltb_completionist_hours": 36.13,
+    "hltb_found": true
+  },
+  "578080": {
+    "hltb_found": false
+  },
+  "578650": {
+    "hltb_main_hours": 13.34,
+    "hltb_completionist_hours": 40.68,
+    "hltb_found": true
+  },
+  "582010": {
+    "hltb_main_hours": 46.49,
+    "hltb_completionist_hours": 430.54,
+    "hltb_found": true
+  },
+  "589590": {
+    "hltb_main_hours": 3.58,
+    "hltb_completionist_hours": 5.83,
+    "hltb_found": true
+  },
+  "597220": {
+    "hltb_main_hours": 7.9,
+    "hltb_completionist_hours": 20.59,
+    "hltb_found": true
+  },
+  "600090": {
+    "hltb_main_hours": 4.93,
+    "hltb_completionist_hours": 6.8,
+    "hltb_found": true
+  },
+  "602520": {
+    "hltb_main_hours": 4.1,
+    "hltb_completionist_hours": 6.65,
+    "hltb_found": true
+  },
+  "602960": {
+    "hltb_main_hours": 52.12,
+    "hltb_completionist_hours": 137.6,
+    "hltb_found": true
+  },
+  "606150": {
+    "hltb_main_hours": 14.08,
+    "hltb_completionist_hours": 29.76,
+    "hltb_found": true
+  },
+  "608800": {
+    "hltb_main_hours": 1.79,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "611790": {
+    "hltb_main_hours": 6.26,
+    "hltb_completionist_hours": 20.08,
+    "hltb_found": true
+  },
+  "612880": {
+    "hltb_main_hours": 10.75,
+    "hltb_completionist_hours": 33.59,
+    "hltb_found": true
+  },
+  "613100": {
+    "hltb_main_hours": 13.16,
+    "hltb_completionist_hours": 49.15,
+    "hltb_found": true
+  },
+  "613830": {
+    "hltb_found": false
+  },
+  "618740": {
+    "hltb_main_hours": 7.32,
+    "hltb_completionist_hours": 23.21,
+    "hltb_found": true
+  },
+  "621060": {
+    "hltb_main_hours": 23.42,
+    "hltb_completionist_hours": 93.36,
+    "hltb_found": true
+  },
+  "635200": {
+    "hltb_main_hours": 4.89,
+    "hltb_completionist_hours": 37.31,
+    "hltb_found": true
+  },
+  "637650": {
+    "hltb_found": false
+  },
+  "638160": {
+    "hltb_main_hours": 23.79,
+    "hltb_completionist_hours": 80.66,
+    "hltb_found": true
+  },
+  "641320": {
+    "hltb_main_hours": 8.4,
+    "hltb_completionist_hours": 21.57,
+    "hltb_found": true
+  },
+  "646270": {
+    "hltb_main_hours": 1.61,
+    "hltb_completionist_hours": 20.78,
+    "hltb_found": true
+  },
+  "646570": {
+    "hltb_main_hours": 12.32,
+    "hltb_completionist_hours": 190.23,
+    "hltb_found": true
+  },
+  "648800": {
+    "hltb_main_hours": 25.38,
+    "hltb_completionist_hours": 69.86,
+    "hltb_found": true
+  },
+  "654880": {
+    "hltb_main_hours": 4.74,
+    "hltb_completionist_hours": 13.51,
+    "hltb_found": true
+  },
+  "667720": {
+    "hltb_main_hours": 11.05,
+    "hltb_completionist_hours": 43.11,
+    "hltb_found": true
+  },
+  "673880": {
+    "hltb_main_hours": 18.88,
+    "hltb_completionist_hours": 47.31,
+    "hltb_found": true
+  },
+  "674940": {
+    "hltb_main_hours": 1.71,
+    "hltb_completionist_hours": 8.37,
+    "hltb_found": true
+  },
+  "675010": {
+    "hltb_main_hours": 17.46,
+    "hltb_completionist_hours": 42.63,
+    "hltb_found": true
+  },
+  "675260": {
+    "hltb_main_hours": 10.01,
+    "hltb_completionist_hours": 11.02,
+    "hltb_found": true
+  },
+  "690790": {
+    "hltb_main_hours": 13.08,
+    "hltb_completionist_hours": 132.38,
+    "hltb_found": true
+  },
+  "691450": {
+    "hltb_found": false
+  },
+  "703880": {
+    "hltb_main_hours": 6.33,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "712730": {
+    "hltb_found": false
+  },
+  "729040": {
+    "hltb_main_hours": 20.57,
+    "hltb_completionist_hours": 74.04,
+    "hltb_found": true
+  },
+  "733300": {
+    "hltb_main_hours": 3.48,
+    "hltb_completionist_hours": 3.61,
+    "hltb_found": true
+  },
+  "737230": {
+    "hltb_found": false
+  },
+  "739630": {
+    "hltb_main_hours": 20.09,
+    "hltb_completionist_hours": 133.72,
+    "hltb_found": true
+  },
+  "744190": {
+    "hltb_main_hours": 3.56,
+    "hltb_completionist_hours": 4.56,
+    "hltb_found": true
+  },
+  "747350": {
+    "hltb_main_hours": 6.85,
+    "hltb_completionist_hours": 8.36,
+    "hltb_found": true
+  },
+  "765870": {
+    "hltb_main_hours": 9.1,
+    "hltb_completionist_hours": 10.16,
+    "hltb_found": true
+  },
+  "778390": {
+    "hltb_main_hours": 13.41,
+    "hltb_completionist_hours": 20.44,
+    "hltb_found": true
+  },
+  "787480": {
+    "hltb_main_hours": 60.38,
+    "hltb_completionist_hours": 72.09,
+    "hltb_found": true
+  },
+  "787860": {
+    "hltb_main_hours": 113.38,
+    "hltb_completionist_hours": 253.97,
+    "hltb_found": true
+  },
+  "790740": {
+    "hltb_main_hours": 1.96,
+    "hltb_completionist_hours": 2.28,
+    "hltb_found": true
+  },
+  "802450": {
+    "hltb_main_hours": 5.4,
+    "hltb_completionist_hours": 6.46,
+    "hltb_found": true
+  },
+  "803600": {
+    "hltb_main_hours": 52.9,
+    "hltb_completionist_hours": 202.25,
+    "hltb_found": true
+  },
+  "805550": {
+    "hltb_main_hours": 13.43,
+    "hltb_completionist_hours": 336.25,
+    "hltb_found": true
+  },
+  "814380": {
+    "hltb_found": false
+  },
+  "831560": {
+    "hltb_found": false
+  },
+  "849740": {
+    "hltb_main_hours": 16.38,
+    "hltb_completionist_hours": 44.62,
+    "hltb_found": true
+  },
+  "851850": {
+    "hltb_found": false
+  },
+  "869880": {
+    "hltb_found": false
+  },
+  "881020": {
+    "hltb_main_hours": 15.57,
+    "hltb_completionist_hours": 130.98,
+    "hltb_found": true
+  },
+  "883710": {
+    "hltb_main_hours": 8.82,
+    "hltb_completionist_hours": 36.55,
+    "hltb_found": true
+  },
+  "888790": {
+    "hltb_main_hours": 14.23,
+    "hltb_completionist_hours": 58.76,
+    "hltb_found": true
+  },
+  "899970": {
+    "hltb_main_hours": 1.19,
+    "hltb_completionist_hours": 1.86,
+    "hltb_found": true
+  },
+  "912370": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 0.0,
+    "hltb_found": true
+  },
+  "930210": {
+    "hltb_main_hours": 15.09,
+    "hltb_completionist_hours": 28.07,
+    "hltb_found": true
+  },
+  "942970": {
+    "hltb_main_hours": 4.1,
+    "hltb_completionist_hours": 7.48,
+    "hltb_found": true
+  },
+  "951940": {
+    "hltb_main_hours": 4.08,
+    "hltb_completionist_hours": 10.32,
+    "hltb_found": true
+  },
+  "960090": {
+    "hltb_main_hours": 36.42,
+    "hltb_completionist_hours": 581.2,
+    "hltb_found": true
+  },
+  "960170": {
+    "hltb_main_hours": 21.38,
+    "hltb_completionist_hours": 91.83,
+    "hltb_found": true
+  },
+  "966320": {
+    "hltb_main_hours": 2.58,
+    "hltb_completionist_hours": 6.46,
+    "hltb_found": true
+  },
+  "980300": {
+    "hltb_main_hours": 10.57,
+    "hltb_completionist_hours": 26.09,
+    "hltb_found": true
+  },
+  "990080": {
+    "hltb_main_hours": 26.71,
+    "hltb_completionist_hours": 72.05,
+    "hltb_found": true
+  },
+  "1004640": {
+    "hltb_found": false
+  },
+  "1005240": {
+    "hltb_found": false
+  },
+  "1030830": {
+    "hltb_main_hours": 11.28,
+    "hltb_completionist_hours": 36.3,
+    "hltb_found": true
+  },
+  "1037590": {
+    "hltb_main_hours": 0.75,
+    "hltb_completionist_hours": 9.71,
+    "hltb_found": true
+  },
+  "1047440": {
+    "hltb_main_hours": 15.63,
+    "hltb_completionist_hours": 51.39,
+    "hltb_found": true
+  },
+  "1058200": {
+    "hltb_main_hours": 14.57,
+    "hltb_completionist_hours": 319.0,
+    "hltb_found": true
+  },
+  "1076880": {
+    "hltb_main_hours": 2.03,
+    "hltb_completionist_hours": 2.34,
+    "hltb_found": true
+  },
+  "1078760": {
+    "hltb_main_hours": 20.0,
+    "hltb_completionist_hours": 26.42,
+    "hltb_found": true
+  },
+  "1086940": {
+    "hltb_main_hours": 72.85,
+    "hltb_completionist_hours": 181.12,
+    "hltb_found": true
+  },
+  "1091500": {
+    "hltb_main_hours": 26.04,
+    "hltb_completionist_hours": 108.6,
+    "hltb_found": true
+  },
+  "1101360": {
+    "hltb_main_hours": 7.24,
+    "hltb_completionist_hours": 13.07,
+    "hltb_found": true
+  },
+  "1127500": {
+    "hltb_main_hours": 6.57,
+    "hltb_completionist_hours": 45.03,
+    "hltb_found": true
+  },
+  "1150080": {
+    "hltb_main_hours": 9.69,
+    "hltb_completionist_hours": 29.1,
+    "hltb_found": true
+  },
+  "1158310": {
+    "hltb_main_hours": 72.56,
+    "hltb_completionist_hours": 585.79,
+    "hltb_found": true
+  },
+  "1171270": {
+    "hltb_main_hours": 2.91,
+    "hltb_completionist_hours": 4.78,
+    "hltb_found": true
+  },
+  "1173820": {
+    "hltb_found": false
+  },
+  "1190000": {
+    "hltb_main_hours": 24.73,
+    "hltb_completionist_hours": 106.82,
+    "hltb_found": true
+  },
+  "1222700": {
+    "hltb_main_hours": 6.03,
+    "hltb_completionist_hours": 7.36,
+    "hltb_found": true
+  },
+  "1231950": {
+    "hltb_main_hours": 1.23,
+    "hltb_completionist_hours": 8.57,
+    "hltb_found": true
+  },
+  "1233880": {
+    "hltb_main_hours": 35.72,
+    "hltb_completionist_hours": 143.13,
+    "hltb_found": true
+  },
+  "1235140": {
+    "hltb_main_hours": 46.11,
+    "hltb_completionist_hours": 102.88,
+    "hltb_found": true
+  },
+  "1241510": {
+    "hltb_main_hours": 0.48,
+    "hltb_completionist_hours": 0.51,
+    "hltb_found": true
+  },
+  "1245620": {
+    "hltb_found": false
+  },
+  "1277930": {
+    "hltb_main_hours": 11.74,
+    "hltb_completionist_hours": 47.21,
+    "hltb_found": true
+  },
+  "1283190": {
+    "hltb_main_hours": 4.98,
+    "hltb_completionist_hours": 6.09,
+    "hltb_found": true
+  },
+  "1286680": {
+    "hltb_main_hours": 16.1,
+    "hltb_completionist_hours": 52.06,
+    "hltb_found": true
+  },
+  "1322300": {
+    "hltb_main_hours": 1.08,
+    "hltb_completionist_hours": 4.11,
+    "hltb_found": true
+  },
+  "1389550": {
+    "hltb_main_hours": 4.51,
+    "hltb_completionist_hours": 14.65,
+    "hltb_found": true
+  },
+  "1406990": {
+    "hltb_main_hours": 5.81,
+    "hltb_completionist_hours": 7.64,
+    "hltb_found": true
+  },
+  "1446780": {
+    "hltb_found": false
+  },
+  "1462040": {
+    "hltb_found": false
+  },
+  "1475810": {
+    "hltb_main_hours": 11.37,
+    "hltb_completionist_hours": 42.04,
+    "hltb_found": true
+  },
+  "1515210": {
+    "hltb_main_hours": 1.91,
+    "hltb_completionist_hours": 3.84,
+    "hltb_found": true
+  },
+  "1573720": {
+    "hltb_main_hours": 9.3,
+    "hltb_completionist_hours": 11.4,
+    "hltb_found": true
+  },
+  "1578160": {
+    "hltb_main_hours": 6.45,
+    "hltb_completionist_hours": 8.5,
+    "hltb_found": true
+  },
+  "1623730": {
+    "hltb_main_hours": 41.84,
+    "hltb_completionist_hours": 93.21,
+    "hltb_found": true
+  },
+  "1627720": {
+    "hltb_main_hours": 28.35,
+    "hltb_completionist_hours": 58.42,
+    "hltb_found": true
+  },
+  "1671210": {
+    "hltb_found": false
+  },
+  "1687950": {
+    "hltb_main_hours": 101.24,
+    "hltb_completionist_hours": 140.35,
+    "hltb_found": true
+  },
+  "1716740": {
+    "hltb_main_hours": 23.9,
+    "hltb_completionist_hours": 150.73,
+    "hltb_found": true
+  },
+  "1720850": {
+    "hltb_main_hours": 7.22,
+    "hltb_completionist_hours": 43.0,
+    "hltb_found": true
+  },
+  "1794680": {
+    "hltb_main_hours": 15.08,
+    "hltb_completionist_hours": 53.06,
+    "hltb_found": true
+  },
+  "1798010": {
+    "hltb_main_hours": 39.06,
+    "hltb_completionist_hours": 106.46,
+    "hltb_found": true
+  },
+  "1798020": {
+    "hltb_main_hours": 61.54,
+    "hltb_completionist_hours": 157.5,
+    "hltb_found": true
+  },
+  "1801110": {
+    "hltb_main_hours": 4.22,
+    "hltb_completionist_hours": 6.6,
+    "hltb_found": true
+  },
+  "1817190": {
+    "hltb_main_hours": 7.78,
+    "hltb_completionist_hours": 18.53,
+    "hltb_found": true
+  },
+  "1859280": {
+    "hltb_main_hours": 3.45,
+    "hltb_completionist_hours": 5.21,
+    "hltb_found": true
+  },
+  "1879330": {
+    "hltb_main_hours": 0.0,
+    "hltb_completionist_hours": 85.6,
+    "hltb_found": true
+  },
+  "1903340": {
+    "hltb_main_hours": 29.24,
+    "hltb_completionist_hours": 68.33,
+    "hltb_found": true
+  },
+  "1904790": {
+    "hltb_found": false
+  },
+  "1920490": {
+    "hltb_main_hours": 17.64,
+    "hltb_completionist_hours": 60.75,
+    "hltb_found": true
+  },
+  "1921780": {
+    "hltb_main_hours": 14.16,
+    "hltb_completionist_hours": 20.75,
+    "hltb_found": true
+  },
+  "1967430": {
+    "hltb_main_hours": 12.07,
+    "hltb_completionist_hours": 13.28,
+    "hltb_found": true
+  },
+  "2062550": {
+    "hltb_main_hours": 0.97,
+    "hltb_completionist_hours": 3.5,
+    "hltb_found": true
+  },
+  "2072840": {
+    "hltb_main_hours": 3.25,
+    "hltb_completionist_hours": 6.77,
+    "hltb_found": true
+  },
+  "2149010": {
+    "hltb_main_hours": 3.57,
+    "hltb_completionist_hours": 9.1,
+    "hltb_found": true
+  },
+  "2169200": {
+    "hltb_main_hours": 9.0,
+    "hltb_completionist_hours": 28.45,
+    "hltb_found": true
+  },
+  "2183900": {
+    "hltb_main_hours": 9.45,
+    "hltb_completionist_hours": 63.76,
+    "hltb_found": true
+  },
+  "2215430": {
+    "hltb_main_hours": 25.12,
+    "hltb_completionist_hours": 62.43,
+    "hltb_found": true
+  },
+  "2246340": {
+    "hltb_main_hours": 17.99,
+    "hltb_completionist_hours": 113.63,
+    "hltb_found": true
+  },
+  "2286780": {
+    "hltb_main_hours": 14.46,
+    "hltb_completionist_hours": 28.56,
+    "hltb_found": true
+  },
+  "2358720": {
+    "hltb_main_hours": 37.83,
+    "hltb_completionist_hours": 67.46,
+    "hltb_found": true
+  },
+  "2454960": {
+    "hltb_main_hours": 15.0,
+    "hltb_completionist_hours": 29.7,
+    "hltb_found": true
+  },
+  "2623190": {
+    "hltb_main_hours": 17.39,
+    "hltb_completionist_hours": 93.52,
+    "hltb_found": true
+  },
+  "2679460": {
+    "hltb_main_hours": 65.29,
+    "hltb_completionist_hours": 108.77,
+    "hltb_found": true
+  },
+  "2689930": {
+    "hltb_main_hours": 5.42,
+    "hltb_completionist_hours": 6.16,
+    "hltb_found": true
+  },
+  "3061810": {
+    "hltb_main_hours": 17.19,
+    "hltb_completionist_hours": 43.9,
+    "hltb_found": true
+  },
+  "3065170": {
+    "hltb_found": false
+  },
+  "3101040": {
+    "hltb_main_hours": 26.13,
+    "hltb_completionist_hours": 53.17,
+    "hltb_found": true
+  },
+  "3240220": {
+    "hltb_main_hours": 32.05,
+    "hltb_completionist_hours": 88.78,
+    "hltb_found": true
+  },
+  "3357650": {
+    "hltb_found": false
+  },
+  "3489700": {
+    "hltb_found": false
+  },
+  "4197610": {
+    "hltb_main_hours": 4.82,
+    "hltb_completionist_hours": 21.29,
+    "hltb_found": true
+  }
+}

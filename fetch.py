@@ -84,7 +84,7 @@ def get_achievement_stats(api_key: str, steam_id: str, app_id: int) -> dict | No
         )
         gr_resp.raise_for_status()
         rates = [
-            a["percent"]
+            float(a["percent"])
             for a in gr_resp.json()["achievementpercentages"]["achievements"]
         ]
 
@@ -158,11 +158,29 @@ def build_row(api_key: str, steam_id: str, game: dict, cache: dict) -> dict:
     }
 
 
+PROGRESS_PATH = f"{DATA_DIR}/progress.json"
+
+
 def save_data(rows: list[dict], cache: dict) -> None:
     os.makedirs(DATA_DIR, exist_ok=True)
     pd.DataFrame(rows).to_csv(GAMES_CSV, index=False)
     with open(HLTB_CACHE_PATH, "w") as f:
         json.dump(cache, f, indent=2)
+
+
+def save_progress(rows: list[dict], cache: dict) -> None:
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(PROGRESS_PATH, "w") as f:
+        json.dump(rows, f)
+    with open(HLTB_CACHE_PATH, "w") as f:
+        json.dump(cache, f, indent=2)
+
+
+def load_progress() -> list[dict]:
+    if os.path.exists(PROGRESS_PATH):
+        with open(PROGRESS_PATH) as f:
+            return json.load(f)
+    return []
 
 
 def main() -> None:
@@ -173,18 +191,27 @@ def main() -> None:
         with open(HLTB_CACHE_PATH) as f:
             cache = json.load(f)
 
-    rows: list[dict] = []
+    rows = load_progress()
+    done_ids = {r["app_id"] for r in rows}
+    remaining = [g for g in games if g["appid"] not in done_ids]
+
+    if rows:
+        print(f"Resuming from {len(rows)}/{len(games)} games already processed.")
+
     skipped = 0
-    for game in tqdm(games, desc="Fetching game data", unit="game"):
+    for game in tqdm(remaining, desc="Fetching game data", unit="game"):
         try:
             rows.append(build_row(STEAM_API_KEY, STEAM_ID, game, cache))
         except Exception:
             skipped += 1
+        save_progress(rows, cache)
 
     if skipped:
         print(f"Warning: {skipped} games skipped due to unexpected errors.")
 
     save_data(rows, cache)
+    if os.path.exists(PROGRESS_PATH):
+        os.remove(PROGRESS_PATH)
     print(f"Done. {len(rows)} games written to {GAMES_CSV}.")
 
 

@@ -5,3 +5,4 @@ tqdm
 rich
 pytest
 pydantic-settings
+anthropic
