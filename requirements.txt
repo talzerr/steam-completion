@@ -2,7 +2,5 @@ requests
 howlongtobeatpy
 pandas
 tqdm
-rich
 pytest
 pydantic-settings
-anthropic

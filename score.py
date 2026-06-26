@@ -1,18 +1,28 @@
 import pandas as pd
 from datetime import datetime, timedelta
 
-from rich.console import Console
-from rich.table import Table
-
 from config import (
     SCORING_WEIGHTS,
     STALENESS_THRESHOLD_YEARS,
     FRESHNESS_RECENT_MONTHS,
-    SMALL_RETURN,
-    SMALL_POOL,
-    BIG_RETURN,
-    BIG_POOL,
 )
+
+TOP_N = 30
+SHORTLIST_PATH = "data/shortlist.csv"
+
+# Columns written to the shortlist, in display order.
+SHORTLIST_COLUMNS = [
+    "name",
+    "score",
+    "hltb_completionist_hours",
+    "achievements_pct",
+    "playtime_hours",
+    "last_played",
+    "has_multiplayer_achievement",
+    "rarity_floor",
+    "avg_global_unlock_pct",
+    "hltb_found",
+]
 
 
 def filter_games(df: pd.DataFrame) -> pd.DataFrame:
@@ -45,16 +55,30 @@ def compute_scores(df: pd.DataFrame, now: datetime = None) -> pd.DataFrame:
         now = datetime.now()
     df = df.copy()
 
+    # Ease is only meaningful when we have real HowLongToBeat times. When HLTB
+    # has no data, completionist_ratio falls back to 1.0 (= max ease), which
+    # would unfairly float those games to the top. Mark ease as missing here and
+    # neutral-impute it below instead of rewarding the missing data.
+    ease_valid = (
+        df["hltb_found"]
+        & (df["hltb_main_hours"] > 0)
+        & (df["hltb_completionist_hours"] > 0)
+    )
     df["ease_raw"] = 1.0 / df["completionist_ratio"].replace(0, float("inf"))
+    df.loc[~ease_valid, "ease_raw"] = float("nan")
+
     df["size_raw"] = 1.0 / df["hltb_completionist_hours"].replace(0, float("inf"))
-    df["difficulty_raw"] = df["rarity_floor"] / 100.0
+    df["difficulty_raw"] = df["rarity_floor"]  # already normalized to [0, 1] at load
     df["freshness_raw_val"] = df.apply(
         lambda r: freshness_raw(r["achievements_pct"], r["last_played"], now), axis=1
     )
 
+    ease_norm = _minmax(df["ease_raw"])
+    ease_norm = ease_norm.fillna(ease_norm.median())  # missing HLTB -> neutral, not max
+
     w = SCORING_WEIGHTS
     df["score"] = (
-        w["ease"] * _minmax(df["ease_raw"])
+        w["ease"] * ease_norm
         + w["size"] * _minmax(df["size_raw"])
         + w["difficulty"] * _minmax(df["difficulty_raw"])
         + w["freshness"] * _minmax(df["freshness_raw_val"])
@@ -71,58 +95,34 @@ def compute_scores(df: pd.DataFrame, now: datetime = None) -> pd.DataFrame:
     return df.drop(columns=["ease_raw", "size_raw", "difficulty_raw", "freshness_raw_val"])
 
 
-def select_games(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
-    median_hours = df["hltb_completionist_hours"].median()
-    small_pool = df[df["hltb_completionist_hours"] <= median_hours].nlargest(SMALL_POOL, "score")
-    big_pool = df[df["hltb_completionist_hours"] > median_hours].nlargest(BIG_POOL, "score")
-
-    def weighted_sample(pool: pd.DataFrame, n: int) -> pd.DataFrame:
-        n = min(n, len(pool))
-        if n == 0:
-            return pool
-        weights = pool["score"].clip(lower=0)
-        total = weights.sum()
-        if total == 0:
-            return pool.sample(n=n)
-        return pool.sample(n=n, weights=weights / total)
-
-    return weighted_sample(small_pool, SMALL_RETURN), weighted_sample(big_pool, BIG_RETURN)
-
-
 def load_games(path: str = "data/games.csv") -> pd.DataFrame:
-    return pd.read_csv(path)
+    df = pd.read_csv(path)
+    df["name"] = df["name"].str.strip()
+    # Normalize percent-scale columns to [0, 1] so every fraction-like field
+    # (achievements_pct, avg_global_unlock_pct, rarity_floor) lives on one scale.
+    df["avg_global_unlock_pct"] = df["avg_global_unlock_pct"] / 100.0
+    df["rarity_floor"] = df["rarity_floor"] / 100.0
+    return df
 
 
-def print_recommendations(small: pd.DataFrame, big: pd.DataFrame) -> None:
-    console = Console()
-
-    def make_table(title: str, games: pd.DataFrame) -> Table:
-        table = Table(title=title, show_header=True, header_style="bold")
-        table.add_column("#", style="dim", width=3)
-        table.add_column("Name")
-        table.add_column("Score", justify="right")
-        table.add_column("Hours (comp)", justify="right")
-        table.add_column("Ach %", justify="right")
-        for i, (_, row) in enumerate(games.iterrows(), 1):
-            table.add_row(
-                str(i),
-                row["name"],
-                f"{row['score']:.1f}",
-                f"{row['hltb_completionist_hours']:.1f}h",
-                f"{row['achievements_pct'] * 100:.0f}%",
-            )
-        return table
-
-    console.print(make_table("Small Games", small))
-    console.print(make_table("Big Games", big))
+def build_shortlist(df: pd.DataFrame, top_n: int = TOP_N) -> pd.DataFrame:
+    shortlist = df.nlargest(top_n, "score")[SHORTLIST_COLUMNS].copy()
+    shortlist.insert(0, "rank", range(1, len(shortlist) + 1))
+    return shortlist
 
 
 def main() -> None:
     df = load_games()
     df = filter_games(df)
     df = compute_scores(df)
-    small, big = select_games(df)
-    print_recommendations(small, big)
+    shortlist = build_shortlist(df)
+    shortlist.to_csv(SHORTLIST_PATH, index=False)
+    print(f"Wrote top {len(shortlist)} candidates to {SHORTLIST_PATH}")
+    for _, r in shortlist.iterrows():
+        print(
+            f"{r['rank']:2}. {r['score']:5.1f}  {r['name'][:45]:45} "
+            f"{r['hltb_completionist_hours']:6.1f}h  ach={r['achievements_pct']*100:3.0f}%"
+        )
 
 
 if __name__ == "__main__":
